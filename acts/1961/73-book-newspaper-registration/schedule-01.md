@@ -1,0 +1,2 @@
+# FIRST SCHEDULE
+(Bodies to be supplied with books) Ghana Library Board The Registrar-General The Library of the University of Ghana The Library of the Kwame Nkrumah University of Science and Technology The Library of the University College of Cape Coast The Library of the Ghana Academy of Sciences and The Library of the Kwame Nkrumah Institute of Economics and Political Science. [As inserted by Book and Newspaper Registration (Amendment) Act, 1963 (Act 193) s.(c).]
