@@ -1,0 +1,7 @@
+AN ACT to give effect to Chapter XI-2 of the International Convention for the Safety of Life at Sea, 1974 (SOLAS) as amended; to enhance maritime safety and security; to create a legal framework for the effect compliance with the International Ship and Port Facility Code (ISPS) in this country; and to provide for related matters.
+DATE OF ASSENT: 1st November, 2004
+BE IT ENACTED by Parliament as follows:
+WHEREAS a Conference of Contracting Governments to the International Convention for the Safety of Life at Sea 1974 known as the Diplomatic Conference on Maritime Security in December 2002 adopted new provisions in the International Convention for the Safety of Life at Sea, 1974 and the International Ship and Port Facility Code;
+WHEREAS the adoption of the new provisions in the International Convention for the Safety of Life at Sea, 1974 and the International Ship and Port Facility Code is intended to provide the international framework through which ship and port facilities can co-operate to detect and deter acts which threaten security in maritime transport; AND WHEREAS it is necessary for Ghana to comply fully with Chapter X1-2 of the Convention and the ISPS Code; to enable the Ghana Maritime Authority ensure the safety and security of Ghanaian ships and ports, and to provide for and enforce sanctions to deter security threats to the maritime industry in Ghana:
+NOW THEREFORE BE IT ENACTED by Parliament as follows:
+PART I-PRELIMINARY
