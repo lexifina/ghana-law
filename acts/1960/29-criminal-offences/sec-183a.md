@@ -1,0 +1,2 @@
+# 183A. Limitation on Institution of Proceedings
+Any person who with intent to bring the President into hatred, ridicule or contempt publishes any defamatory or insulting matter whether by writing, print, word of mouth or in any other manner whatsoever concerning the President shall be guilty of an offence and liable on summary conviction to a fine not exceeding ¢7 million or to imprisonment not exceeding three years or to both.
