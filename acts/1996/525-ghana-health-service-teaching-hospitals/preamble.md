@@ -1,0 +1,3 @@
+AN ACT to establish the Ghana Health Service, to provide for related matters including its functions and membership; to provide for the administration and management of institutions in the Health service including state-owned hospitals and health stations; to continue the existence and operation of Teaching Hospitals and to provide for matters related to the foregoing.
+
+DATE OF ASSENT: 30TH DECEMBER, 1996 BE IT ENACTED by Parliament as follows— PART I—ESTABLISHMENT OF THE GHANA HEALTH SERVICE Sub-Part I—The Service at the National Level
