@@ -1,0 +1,3 @@
+# First Schedule, section 36 — Abrogation of pndc (establishment) proclamation
+(1) Upon the coming into force of this Constitution, the Provisional National Defence Council (Establishment) Proclamation 1981 and the Provisional National Defence Council (Establishment) Proclamation (Supplementary and Consequential Provisions) Law, 1982 (PNDCL 42) shall cease to have effect.
+(2) Notwithstanding the abrogation of the Proclamation referred to in subsection (1) of this section, any enactment or rule of law in force immediately before the coming into force of this Constitution shall, in so far as it is not inconsistent with a provision of this Constitution, continue in force as if enacted, issued, or made under the authority of this Constitution.
