@@ -1,0 +1,3 @@
+AN ACT to establish a Commission on Human Rights and Administrative Justice to investigate complaints of violations of fundamental human rights and freedoms, injustice and corruption; abuse of power and unfair treatment of persons by public officers in the exercise of their duties, with power to seek remedy in respect of such acts or omissions and to provide for other related purposes.
+
+DATE OF ASSENT: 6TH JULY, 1993 BE IT ENACTED by Parliament as follows¾ PART I— ESTABLISHMENT OF COMMISSION ON HUMAN RIGHTS AND ADMINISTRATIVE JUSTICE.
