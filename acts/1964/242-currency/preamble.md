@@ -1,0 +1,3 @@
+AN ACT to amend and consolidate the law relating to coins and notes issued by the Bank of Ghana, to prohibit certain acts tending to depreciate the currency, to provide for the prohibition of the importation and exportation of specified coins and notes and for matters incidental to or connected with the matters aforesaid.
+
+DATE OF ASSENT: 22nd May, 1964 BE IT ENACTED by the President and the National Assembly in this present Parliament assembled as follows:— PART I—ACTS TENDING TO DEPRECIATE THE CURRENCY
