@@ -1,0 +1,20 @@
+THIRD SCHEDULE
+(Section 16 (3))
+1. (1) For the purposes of any inquiry to be held under section 16 of the Act, the Council shall appoint five persons, of whom at least three shall be from among its members, to constitute a disciplinary committee and shall appoint one of them to be chairman of the committee
+(2) Where the person whose conduct is the subject of the investigation is a practising accountant membership of the disciplinary committee shall include a practising accountant.
+2. (1) The Council shall cause a statement to be prepared setting out the charges to be investigated by the disciplinary committee, and the secretary of the Council shall transmit a copy of the statement to each member of the committee and to the person whose conduct is the subject of the investigation.
+(2) Where the inquiry is to be held in consequence of a petition or complaint alleging misconduct by any person, the secretary of the Council shall, in addition, transmit a copy of that petition or complaint to that person and to each of the members of the disciplinary committee.
+3. (1) The secretary of the Council shall give notice of the first date fixed for the inquiry to the person whose conduct is the subject of the investigation.
+(2) Every such notice shall, at least fourteen days before the date fixed for the inquiry, be delivered by hand at, or sent through the post by registered letter addressed to, the last known address of that person.
+(3) Where any person to whom a notice has been given under sub-paragraph (1) of this paragraph fails to appear in person or is not represented by counsel, the inquiry may be held by the disciplinary committee in his absence.
+(4) Notice of any date to which the inquiry may be adjourned shall be given by the committee personally to the person whose conduct is the subject of inquiry or be given in manner provided in sub-paragraph (2) of this paragraph.
+4. (1) If the Council is of the opinion that the evidence of any person, or the production by any person of any document is necessary to enable any matter to be investigated by a disciplinary committee, the Council shall direct the secretary of the Council to require the attendance of that person, or the production by that person of such document, at such time and place as may be specified in a notice which shall be delivered by hand at, or sent through the post by registered letter addressed to, the last known place of residence of that person.
+(2) Any person who having been served with a notice under sub-paragraph (1) of this paragraph fails, without reasonable cause, to attend or to produce any document, as the case may be, at the time and place specified in the notice, commits an offence under this Act
+(3) The secretary of the Council shall be the secretary of every disciplinary committee and every notice issued under this Schedule shall be signed by him.
+(4) A disciplinary committee shall have power to administer oaths or affirmations to all persons who are required to give evidence before such committee, and any person who refuses to be sworn or affirmed, or to answer such questions as may be put to him concerning any matter in respect of which the inquiry is held, commits an offence under this Act.
+(5) Any person who upon examination upon oath or affirmation before a disciplinary committee wilfully gives false evidence commits an offence under this Act.
+(6) Any person whose conduct is the subject of investigation at an inquiry or who is in any way concerned or implicated in such inquiry may be represented by counsel at the inquiry.
+(7) The Council may authorize any legal practitioner to assist the disciplinary committee as to the leading and taking of evidence.
+(8) Every inquiry held by a disciplinary committee shall, unless the Council otherwise determines in any case be held in camera.
+(9) Any question before a disciplinary committee shall be determined by the decision of the majority of the members of that committee.
+(10) Upon the conclusion of an inquiry, the disciplinary committee shall prepare and transmit to the Council a report embodying the findings on the matters in respect of which the inquiry was held.
