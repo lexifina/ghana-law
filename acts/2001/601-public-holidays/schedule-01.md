@@ -1,0 +1,2 @@
+# SCHEDULES
+"FIRST SCHEDULE PUBLIC HOLIDAYS (section 1) New Year's Day (1st January) Constitution Day (7th January) Independence Day (6th March) Good Friday Easter Monday Eid-al-Adha Festival (Hajj) Eid-al-Fitr (Ramadan) Workers' Day (1st May) Founders' Day (4th August) Kwame Nkrumah Memorial Day (21st September) Farmers Day (1st Friday in December) Christmas Day (25th December) Boxing Day (26th December)
