@@ -1,0 +1,2 @@
+# 193A. —Errors, etc not to Invalidate Committal
+Notwithstanding anything to the contrary in any other provision of this Code, any error, omission or irregularity, in respect of any matter specified in sections 181 to 193 of this Code, during the preliminary hearing, before a District Court of the case of an accused person, shall not invalidate their committal for trial of such person by such Court, unless a District Magistrate or Judge is of opinion that such error, omission or irregularity is likely to occasion a substantial miscarriage of justice.
