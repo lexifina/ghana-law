@@ -1,0 +1,9 @@
+SCHEDULE III
+(SECTION 29(4))
+ENDORSEMENT FOR INTERMEDIATE VERIFICATION
+THIS IS TO CERTIFY that at an intermediate verification required by section 19.1.1 of Part A of the ISPS Code the ship was found to comply with the relevant provisions of chapter XI- 2 of the Convention and Part A of the ISPS Code
+Intermediate verification Signed ..............................
+(Signature of authorised official)
+Place .........................................
+Date ...........................................
+(Seal or stamp of the Authority, as appropriate)
