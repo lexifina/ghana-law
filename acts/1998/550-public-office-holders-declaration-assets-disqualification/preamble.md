@@ -1,0 +1,3 @@
+AN ACT to provide for the declaration of assets and liabilities by public office holders in conformity with Chapter twenty-four of the Constitution; to provide for disqualification from holding specified public offices as a result of adverse finding made or criminal conviction against individuals and to provide for related purposes.
+
+DATE OF ASSENT: 4TH MAY 1998 BE IT ENACTED by Parliament as follows— PART I—DECLARATION OF ASSETS
