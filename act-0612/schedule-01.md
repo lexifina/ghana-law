@@ -1,0 +1,3 @@
+SCHEDULE
+(Section 43)
+I ................................................................ Governor/Deputy Governor of the Bank of Ghana for the time being acting as the chief executive officer of the Bank, do hereby certify that I have examined the document marked .............................................which purports to be a bank note of the denomination ............................................... bearing the number ................... and dated ............................................ and that the document is an imitation of a bank note and is not a bank note issued or deemed to be issued by the Bank of Ghana.
