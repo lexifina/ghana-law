@@ -1,0 +1,3 @@
+AN ACT to establish a Driver and Vehicle Licensing Authority, in place of the Vehicle, Examination and Licensing Division of the Ministry of Roads and Transport, with the object of promoting good driving standards and ensuring safety of vehicles on roads and to provide for related matters.
+
+DATE OF ASSENT: 18TH AUGUST, 1999 BE IT ENACTED by Parliament as follows— PART I—ESTABLISHMENT AND FUNCTIONS OF THE DRIVER AND VEHICLE LICENSING AUTHORITY
