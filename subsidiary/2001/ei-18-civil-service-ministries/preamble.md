@@ -1,0 +1,1 @@
+In exercise of the powers conferred on the President under section 11 of the Civil Service Law, 1993 (P.N.D.C.L. 327) as amended by the Civil Service (Amendment) Act, 2001 (Act 600), this Instrument is made this 24th day of October, 2001.
