@@ -1,0 +1,25 @@
+FIRST SCHEDULE
+Total Payments Statutory Payment External Debt Service Principal 1/ Interest Domestic Interest District Assemblies Common Fund Transfers to Households Pensions Gratuities Social Security National Health Fund (NHF) Education Trust Fund Road Fund Petroleum-related Fund
+Discretionary Payments Personal Emoluments (MDAs-Item 1) Administration (MDAs-Item 2) Service (MDAs-Item 3) Domestic Investment (Item 4) (Excl. Statutory Funds) Foreign-financed Investment (Item 4) VAT refunds Outstanding Commitments Roads Non-roads Utility Price Subsidies Other Transfers Retention of Internally-generated funds (IGFs) Safety net for petroleum deregulation Lifeline consumers of electricity Tax Expenditure (Exemptions) HIPC-financed Expenditure MDRI-financed Expenditure Repayment of Domestic Debt Banking o/w Reduction due to HIPC-fin'dsic debt buyback Redemption of Deferred Interest Payments on inflation-indexed Bonds 2007 BUDGET (¢)
+54,315,900,000,000 14,818,100,000,000 3,392,300,000,000 2,249,400,000,000 1,142,900,000,000 2,505,200,000,000 1,626,700,000,000 4,374,700,000,000 1,051,600,000,000 511,800,000,000 98,715,001,000,000 1,82319001000,000 1,775,200,000,000 1,113,800,000,000 30,200,000,000
+39,497,800,000,000 13,167,000,000,000 3,161,592,000,000 998,397,000,000 2,598,900,000,000 8,966,300,000,000 126,200,000,000 562,000,000,000 165,000,000,000 397,000,000,000 116,200,000,000 5,919,700,000,000 2,233,900,000,000 190,500,000,000 100,000,000,000 3,395,200,000,000 1,768,700,000,000 1,598,700,000,000 510,900,000,000 510,900,000,000 442,200,000,000 3,100,000,000
+Memo Items * In 2007, other transfers include retained Internally Generated Funds (IGFs) of ¢2,233.9 billion and tax exemptions of ¢3,395.2 billion.
+Sub Total Information & National Orientation
+Justice Council of Law Reporting 450.00 450.00 Registrar General's Department 460,000.00 Sub Total Justice 46,450.00 7,350.00
+Defence 37 Military Hospital 25,000.00 25,000.00 Armed Forces General Headquarters 0 Ghana Navy 0 Sub Total Defence 25,000.00 25,000.00
+Judicial Service Judicial Service 44,894.70 6,734.21 Stool Lands & Boundaries Settlement Commission 0 Sub Total Judicial Service 44,894,70 6,734.21
+Interior Criminal Investigations Department 5,015.20 Ghana Immigration Service 50,000.00 10,000.00 Ghana National Fire Service 692.90 692.90 Ghana Police Service (Administration) 70.00 Ghana Prisons Service 2,646.00 1,587.60 Interior Headquarters 4,000.00 4,000.00 MTTU 3,019.93 754.98 2,264.95 Narcotics Control Board Police Hospital 5,047.63 5,047.63 Sub Total Interior 70,491.66 17,390.21
+Public Sector Reform Public Services Commission 0 Sub Total Public Sector Reform
+Office of the President Ghana Investment Promotion Centre 3,461.58 Sub Total Office of the President 3,461.58
+Chieftaincy & Culture Abibigroma Theatre Company 98.00 98.00 Bureau of Ghana Languages 70.00 70.00 Folklore Board 92.00 92.00 Ghana Dance Ensemble 120.00 120.00 Ghana Museums & Monuments Board 1,600.00 Kwame Nkrumah Memorial Park 350.00 350.00 National Symphony Orchestra 145.00 145.00 National Theatre 2,000.00 2,000.00 Regional Centres for National Culture 1,995.08 W.E.B Du Bois Memorial Centre 199.20 199.20 Sub Total Chieftaincy & Culture 6,669.28
+Multisectorial Payroll Deductions/Rents 7,920.00 Value Books Sales 15,000.00 15,000.00 Government 39 District/Regional Treasury Collections
+Dividend Payment 188,615.00 188,615.00 Accra City/Other Receipts/Refunds etc.
+1,500.00 Architects Registration Council Public Works Department 5,686.20 2,843.10 Water Resources Commission 2,783.60 Town and Country Planning 280.00 280.00 Sub Total Water Resources Works and Housing
+Transportation Main Ministry (Roads & Transport) 1,261.70 Driver and Vehicle Licensing Authority 21,500.00 Ghana Highway Authority 800.00 800.00 Govt. Technical Training Centre - Department of Feeder Roads 600.00 300.00 300.00 Department of Urban Roads 946.54 473.27 473.27 Sub Total Transportation 25,108.24 3998.27
+Communications Ghana-India Kofi Annan Centre of Excellence GRATIS - Ghana Meteorological Agency 856.00 856.00 DAPIT - Sub Total Communications 3,356.00
+Harbours and Railways Ghana Maritime Authority 440.70 0 Sub Total Harbours and Railways 440.70 0
+Sub Total Private Sector Competitiveness
+HUMAN RESOURCES DEVELOPMENT
+Education, Science and Sports Ghana Education Service 570,000.00 NACVET Ghana Library Board 55.56 55.56 0 Main Ministry (Sports Levy) 0 National Service Secretariat 7,012.00 National Sports Council 164,000.00 Tertiary 346,163.00 346,163.00 WAEC (NATIONAL) 25,510.00 C. S. I. R.
+5,560.00 5,560.00 G. A. E. C 7,300.00 7,300.00 Sub Total Education, Science and Sports 1,125,600.56 1,125,600.56 0
+Manpower Development Employment & Youth Department of Co-operatives 130.80 0 Department of Factories Inspectorate 899.70 0 Department of Social Welfare 52.00 0 Ghana Co-operatives College 0 Management Dev. & Productivity Institute (MDP) 4,548.00 National Vocational Training Institute (N.V.T.I) Opportunities Industrialization Centre (OIC) 482.18 482.00 0 Sub Total Manpower Development Employment & Youth 14,596.68 1,082.50
