@@ -1,0 +1,6 @@
+# SCHEDULES
+FIRST SCHEDULE (Section 28) CERTIFICATE OF VACCINATION Certificate of successful vaccination I, the undersigned, hereby certify that .........................................a man, woman, boy, girl of the apparent age of about................years, a resident of ....................... in the ...........................was successfully vaccinated by me at......... in the District of........... on the day of ...................
+
+.............................................
+
+Signature Public Vaccinator
