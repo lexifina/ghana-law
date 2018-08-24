@@ -1,0 +1,3 @@
+AN ACT to amend the Technical Universities Act, 2016 (Act 922) to convert Cape Coast Polytechnic and Tamale Polytechnic to Technical Universities; to provide for standardised Statutes and Scheme of Service for the Technical Universities; to provide for a fixed tenure for the Registrar and Director of Finance; to provide for the enactment of Statutes; to apply the requirements of the standardised Statutes and Scheme of Service to persons deemed to have been employed by the Technical Universities and to provide for related matters.
+DATE OF ASSENT: 24th August, 2018.
+PASSED by Parliament and assented to by the President:
