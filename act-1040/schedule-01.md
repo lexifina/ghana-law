@@ -1,0 +1,11 @@
+SCHEDULE
+(section 31)
+Forms of Oath
+OATH OF OFFICE
+I, ...................................................................................................................................................... .......................................................do (in the name of the Almighty God swear) (solemnly affirm) that I will faithfully and impartially to the best of my abilities, perform the functions required of me as the Director-General or employee of the Bureau. So help me God.
+OATH OF SECRECY ON TAKING OFFICE
+I, ...................................................................................................................................................... ......., do (in the name of the Almighty God swear) (solemnly affirm) that I will not, without due authority, directly or indirectly communicate or disclose or make known to a person an information acquired by me by reason of the functions performed by me on behalf, of or under the direction of, the National Signals Bureau or by any reason of an office or employment held by me pursuant to the National Signals Bureau Act, 2020 (Act ..... ). So help me God.
+OATH OF ALLEGIANCE
+I, ...................................................................................................................................................... ......... do (in the name of the Almighty God swear) (solemnly affirm) that I will bear true faith and allegiance to the Republic of Ghana, to the President of Ghana, to the Government of Ghana, as by law established, that I will uphold the sovereignty and integrity of the Republic of Ghana and that I will preserve, protect and defend the Constitution of the Republic of Ghana. So help me God.
+OATH OF SECRECY ON LEAVING OFFICE
+I, ...................................................................................................................................................... ........., having retired or resigned from my appointment in or having had my appointment terminated by the National Signals Bureau, do hereby (in the name of the Almighty God swear) (solemnly affirm) that I will not directly or indirectly communicate or disclose or make known to any person any matter which was considered by me or came to my knowledge in the discharge of my official duties save as may be specifically required by law. So help me God.
