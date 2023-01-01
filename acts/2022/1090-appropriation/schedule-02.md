@@ -1,0 +1,4 @@
+# FIRST SCHEDULE
+(Section 1) Sum of Money to be Issued from the Consolidated Fund for the 2023 Financial Year Year:2023 Currency: Ghana Cedi (GHS) Version 1 Ghana EXIM Bank Ltd.
+
+Ghana Airport Company limited Minerals Development Fund Minerals Income Investment Fund Plastic Waste Recycling Fund Social Benefits Lifeline consumers of electricity Transfers for Social Protection Other Expenditure ESLA Transfers Energy Sector Payment Shortfalls Capital Expenditure Domestic Financed o/w Annual Budget Funding Amount- Domestic financed o/w ABFA- Financed Accra Tema Motorway Foreign Financed Arrears Amortization 181,800,456 877,790,000 205,064,274 820,257,094 2,415,268 545,070,000 150,000,000 395,070,000 26,739,907,256 3,087,307,256 23,652,600,000 26,546,185,583 10,537,633,611 6,292,863,844 1,975,000,000 16,008,551,971 14,435,333,333 22,373,458,321
