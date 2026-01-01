@@ -1,0 +1,2 @@
+# FOURTH SCHEDULE
+(Section 1) Summary of Expenditure by Programme, Economic Item and Funding 07001 - Other Government Obligations 054 • National Health Insurance Authority 07001 • Other Government Obligations 065 • Transfer to Ghana National Petroleum Co ration 07001 • Other Government Obligations I /<**»*« 9372,325,805 9372325.805 3,647,659379 Year. Year Total 2026 Currency: Ghana Cedi (GH5) Version 1 APPROPRIATION(N0.2)ACT, 2025
