@@ -230,7 +230,7 @@ def units_of(paras: list[str], titles: dict[str, str], keep_titles_for: set[str]
             cur = None
             i += 1
             continue
-        if p in ("FIRST SCHEDULE", "SECOND SCHEDULE"):
+        if re.match(r"(FIRST|SECOND) SCHEDULE", p):
             section = "sch1" if p.startswith("FIRST") else "sch2"
             skipped.append(p)
             if re.fullmatch(r"[A-Z ,'—\-]+", nxt) and not HEAD.match(nxt):
@@ -239,7 +239,7 @@ def units_of(paras: list[str], titles: dict[str, str], keep_titles_for: set[str]
             cur = None
             i += 1
             continue
-        if section == "sch1" and re.fullmatch(r"PART [IVX]+", p):
+        if section == "sch1" and re.fullmatch(r"PART [IVX]+( [A-Z ,'—\-]+)?", p):
             skipped.append(p)
             if re.fullmatch(r"[A-Z ,'—\-]+", nxt) and not HEAD.match(nxt):
                 skipped.append(nxt)
