@@ -1,0 +1,97 @@
+{
+ "retrieved": "2026-10-28",
+ "common_crawl": false,
+ "lii": {
+  "name": "GhaLII",
+  "hosts": [
+   "ghalii.org"
+  ],
+  "cc": "gh",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": ""
+ },
+ "country": {
+  "code": "GH",
+  "name": "Ghana",
+  "slug": "ghana",
+  "lang": "en",
+  "tz": "Africa/Accra",
+  "future_branch": "future",
+  "publisher": {
+   "name": "GhaLII",
+   "email": "ghalii@ghalii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by the commencement date GhaLII states for the act or for the amending Act (Act 527 of 1996: \"Commenced\" 31 December 1996, the day of its Gazette notification), or, for the Constitution as made, by section 1 of the Constitution of the Fourth Republic of Ghana (Promulgation) Law, 1992 (P.N.D.C.L. 282): in force on 7 January 1993. No date is computed from a default rule.",
+   "source": "https://ghalii.org/legislation/"
+  },
+  "licence_note": "Source: GhaLII, the Ghana Legal Information Institute (https://ghalii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "GhaLII, the Ghana Legal Information Institute (on the Laws.Africa Peachjam platform)",
+   "url": "https://ghalii.org",
+   "retrieved": "2026-10-28",
+   "requests": "count",
+   "licence": "CC BY-NC 4.0, crediting GhaLII as the source (https://ghalii.org/terms-of-use/, s. 9: \"you may freely use, re-use and redistribute works from GhaLII provided you credit GhaLII as your source and your use is not for commercial gain\")",
+   "notes": "Point-in-time expressions of each act, /akn/gh/act/<year>/<num>/eng@<date>. GhaLII's document pages are not fetched: each expression page is read from an Internet Archive capture (raw id_ form); the capture timestamps and sha256s are pinned in sources.json. Request count covers the Internet Archive, GhaLII's open listing pages and the two government-hosted Constitution PDFs."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Archived copies of GhaLII pages; the content licence is GhaLII's",
+   "notes": "CDX API for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes. Common Crawl was not used: its index server (index.commoncrawl.org) refused connections from this machine on 2026-10-28."
+  },
+  {
+   "name": "Office of the Special Prosecutor, Ghana: The Constitution of the Republic of Ghana, 1992 (as Amended to 1996)",
+   "url": "https://osp.gov.gh/media/Resources/Ghana_Constitution.pdf",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Government of Ghana website; no licence stated. The compilation is marked \"Oceana\" (Constitutions of the Countries of the World); the constitutional text itself is Ghana's law.",
+   "notes": "PDF with a text layer: the Constitution with the Constitution of the Republic of Ghana (Amendment) Act, 1996 integrated, each changed passage bracketed and linked to an endnote naming the section of the Act that made it. Source of the text in force from 31 December 1996 (today's text)."
+  },
+  {
+   "name": "Ghana Audit Service: The 1992 Constitution of the Republic of Ghana",
+   "url": "https://audit.gov.gh/files/publications/The_1992_Constitution_of_the_Republic_of_Ghana635603143.pdf",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Government of Ghana website; no licence stated.",
+   "notes": "PDF with a text layer of the Constitution as made in 1992, before the 1996 amendments. Used only for the wording of the provisions the 1996 Amendment Act replaced (their 1993 to 1996 text)."
+  }
+ ],
+ "acts": [
+  {
+   "work": "2012/843",
+   "slug": "data-protection",
+   "short": "DPA 2012",
+   "title": "Data Protection Act, 2012 (Act 843)",
+   "label": "Act 843 of 2012"
+  },
+  {
+   "work": "2019/992",
+   "slug": "companies",
+   "short": "Companies Act 2019",
+   "title": "Companies Act, 2019 (Act 992)",
+   "label": "Act 992 of 2019"
+  },
+  {
+   "work": "2011/832",
+   "slug": "renewable-energy",
+   "short": "Renewable Energy Act",
+   "title": "Renewable Energy Act, 2011 (Act 832)",
+   "label": "Act 832 of 2011"
+  }
+ ],
+ "decisions": [
+  "Acts were chosen by what the archive holds. Of the 748 GhaLII works the Internet Archive holds (one CDX query, 2026-10-28), only three have more than one expression archived, and the 1992 Constitution has none. The Data Protection Act 2012 and the Companies Act 2019 have one expression each, and GhaLII's History for each lists no amendment (applied or not yet applied), so the single version is the whole history GhaLII records. The Renewable Energy Act 2011 has both of its expressions archived (2011 and 2020).",
+  "The Labour Act 2003 (Act 651) was not taken: both archived copies of its only expression carry no Akoma Ntoso text (GhaLII shows only the source PDF), and no OCR is used. The Criminal Offences Act 1960 (Act 29) has no archived GhaLII expression page at all.",
+  "Licence and terms: GhaLII licenses its primary and secondary law content CC BY-NC 4.0 with attribution (terms s. 9), and its terms prohibit scraping and bulk downloading from its website (s. 4); its robots.txt sends Content-Signal ai-train=no, ai-input=no and Crawl-delay 5. No GhaLII document page was fetched: every GhaLII version is read from the Internet Archive's copy, through the shared machine-wide archive.org rate, for the configured acts only. The user decided on 2026-10-28 that reading these archived copies is acceptable (relayed by the coordinator: \"scraping wayback is fair game, dont overdo it\"). GhaLII's terms (s. 7) say it converts most documents with OCR software; its text is used as GhaLII publishes it, and no OCR was run here. The repository stays private; CC BY-NC allows only non-commercial use. No legal text was given to a model."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and the Constitution reader (constitution.py), and chose the acts. No model wrote, summarised or transformed legal text: fetch.py, constitution.py and parse.py are deterministic code."
+ ]
+}
