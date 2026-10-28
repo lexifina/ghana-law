@@ -131,9 +131,16 @@ def audit_article(full: str, num: int) -> list[str]:
     s = starts[0]
     e = next(i for i in range(s + 1, len(lines)) if re.fullmatch(rf"{num + 1}\.", lines[i].strip())
              or lines[i].strip().startswith("CHAPTER ") or lines[i].strip() in ("Privileges and Immunities",))
-    txt = norm(" ".join(l.strip() for l in lines[s + 1:e]))
-    parts = re.split(r"\s(?=\((?:\d+|[a-z]|[ivx]+)\) )", " " + txt)
-    return [norm(p) for p in parts if norm(p)]
+    paras: list[str] = []
+    for l in lines[s + 1:e]:
+        l = l.strip()
+        if not l:
+            continue
+        if not paras or re.match(r"\((?:\d+|[a-z]|[ivx]+)\) ", l):  # a clause or paragraph marker opens a line
+            paras.append(l)
+        else:
+            paras[-1] += " " + l
+    return [norm(p) for p in paras if norm(p)]
 
 
 def originals(full: str) -> dict[int, list[str]]:
