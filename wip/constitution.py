@@ -107,7 +107,7 @@ def toc_titles() -> dict[str, str]:
     texts = [t for _, t in blocks(OSP)]
     body = next(i for i, t in enumerate(texts) if "IN THE NAME OF THE ALMIGHTY GOD" in t)
     for t in texts[:body]:
-        m = re.match(r"^(\d{1,3})\. ([A-Z][^.]*?\S)\s*$", t)
+        m = re.match(r"^(\d{1,3})\. ([A-Z](?:[^.]|\.(?= [a-z]))*?\S)\s*$", t)  # "195. Appointments, etc. of ..."
         if m and m.group(1) not in out:
             out[m.group(1)] = m.group(2)
     return out
@@ -179,7 +179,9 @@ def originals(full: str) -> dict[int, list[str]]:
 
 # ---------------------------------------------------------------- units
 
-HEAD = re.compile(r"^(\d{1,3})\. ([A-Z][A-Z0-9 ,;:'()\-—&]+)\.?$")
+# an article heading in capitals; "ETC." may sit inside it ("195. APPOINTMENTS, ETC. OF PUBLIC OFFICERS.",
+# "297. IMPLIED POWER, ETC..")
+HEAD = re.compile(r"^(\d{1,3})\. ([A-Z](?:[A-Z0-9 ,;:'()\-—&]|ETC\.)+?)\.{0,2}$")
 
 
 def resolve(paras: list[str], which: str, orig: dict[int, list[str]]) -> list[str]:

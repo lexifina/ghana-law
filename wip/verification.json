@@ -1,0 +1,279 @@
+{
+ "acts": {
+  "data-protection": [
+   {
+    "from": "2012-05-18",
+    "units": 100,
+    "changed": 0,
+    "credited": 0
+   }
+  ],
+  "data-protection:archive": {
+   "last_version": "2012-05-18",
+   "captured": "20260414022511",
+   "via": "wayback",
+   "history_after_last": []
+  },
+  "data-protection:listing": {
+   "lii_current": "2012-05-18",
+   "ours": "2012-05-18",
+   "ok": true
+  },
+  "companies": [
+   {
+    "from": "2019-08-02",
+    "units": 398,
+    "changed": 0,
+    "credited": 0
+   }
+  ],
+  "companies:archive": {
+   "last_version": "2019-08-02",
+   "captured": "20260218211453",
+   "via": "wayback",
+   "history_after_last": []
+  },
+  "companies:listing": {
+   "lii_current": "2019-08-02",
+   "ours": "2019-08-02",
+   "ok": true
+  },
+  "renewable-energy": [
+   {
+    "from": "2011-12-31",
+    "units": 54,
+    "changed": 0,
+    "credited": 0
+   },
+   {
+    "from": "2020-12-29",
+    "units": 55,
+    "changed": 13,
+    "credited": 13
+   }
+  ],
+  "renewable-energy:archive": {
+   "last_version": "2020-12-29",
+   "captured": "20260419084445",
+   "via": "wayback",
+   "history_after_last": []
+  },
+  "renewable-energy:listing": {
+   "lii_current": "2020-12-29",
+   "ours": "2020-12-29",
+   "ok": true
+  }
+ },
+ "fidelity": {
+  "data-protection@2012-05-18": {
+   "units": 100,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2019-08-02": {
+   "units": 398,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "renewable-energy@2011-12-31": {
+   "units": 54,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "renewable-energy@2020-12-29": {
+   "units": 55,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  }
+ },
+ "staged_commencement": [
+  "renewable-energy"
+ ],
+ "law_dates": {
+  "act-2011-832": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2012-843": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2019-992": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2020-1045": {
+   "commenced": null,
+   "dated": [
+    "2020-12-29"
+   ]
+  }
+ },
+ "constitution": {
+  "osp": {
+   "blocks": 2285,
+   "page_break_joins": 11,
+   "first": "IN THE NAME OF THE ALMIGHTY GOD",
+   "last": "To be sworn before the President, or such other person as th"
+  },
+  "skipped_headings_1996": 65,
+  "units": 348,
+  "changed": [
+   "art-008",
+   "art-009",
+   "art-112",
+   "art-114",
+   "art-166",
+   "art-199",
+   "art-201",
+   "art-206",
+   "art-211"
+  ],
+  "audit_check": {
+   "art-008": {
+    "ratio": 1.0,
+    "diffs": []
+   },
+   "art-009": {
+    "ratio": 0.9865,
+    "diffs": [
+     [
+      "parliament",
+      "parliamentary"
+     ],
+     [
+      "provisions",
+      "provision"
+     ],
+     [
+      "to",
+      "of"
+     ]
+    ]
+   },
+   "art-112": {
+    "ratio": 1.0,
+    "diffs": []
+   },
+   "art-114": {
+    "ratio": 1.0,
+    "diffs": []
+   },
+   "art-166": {
+    "ratio": 1.0,
+    "diffs": []
+   },
+   "art-199": {
+    "ratio": 1.0,
+    "diffs": []
+   },
+   "art-201": {
+    "ratio": 1.0,
+    "diffs": []
+   },
+   "art-206": {
+    "ratio": 0.9892,
+    "diffs": [
+     [
+      "",
+      "of"
+     ],
+     [
+      "the",
+      "he"
+     ]
+    ]
+   },
+   "art-211": {
+    "ratio": 1.0,
+    "diffs": []
+   }
+  },
+  "unchanged_articles_osp_vs_audit": {
+   "identical_words": 174,
+   "differing": 113,
+   "lowest": [
+    [
+     0.076,
+     "art-162"
+    ],
+    [
+     0.086,
+     "art-085"
+    ],
+    [
+     0.228,
+     "art-160"
+    ],
+    [
+     0.329,
+     "art-209"
+    ],
+    [
+     0.56,
+     "art-261"
+    ],
+    [
+     0.776,
+     "art-138"
+    ],
+    [
+     0.835,
+     "art-235"
+    ],
+    [
+     0.917,
+     "art-222"
+    ]
+   ]
+  },
+  "act527_longest_match_share": {
+   "art-008": [
+    0.65,
+    1.0,
+    1.0,
+    1.0,
+    0.333,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.797
+   ],
+   "art-009": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "art-112": [
+    0.429
+   ],
+   "art-114": [
+    0.571
+   ],
+   "art-166": [
+    0.111,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "art-199": [
+    0.338
+   ],
+   "art-201": [
+    0.944
+   ],
+   "art-206": [
+    0.944
+   ],
+   "art-211": [
+    0.818
+   ]
+  }
+ }
+}

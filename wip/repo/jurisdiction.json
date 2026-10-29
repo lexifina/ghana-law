@@ -4,7 +4,8 @@
   "name": "Ghana",
   "level": "country",
   "repo": "https://github.com/lexifina/ghana-law",
-  "build": "partial",
+  "build": "built: Data Protection Act, 2012 (1 version, 2012-10-16 to 2012-10-16); Companies Act, 2019 (1 version, 2019-08-02 to 2019-08-02); Renewable Energy Act, 2011 (2 versions, 2011-12-31 to 2020-12-29)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
-  "register_date": "2026-10-28"
+  "register_date": "2026-10-28",
+  "sources": 2
 }
