@@ -1,0 +1,67 @@
+{
+ "country": "GH",
+ "acts": [
+  {
+   "slug": "data-protection",
+   "short": "DPA 2012",
+   "title": "Data Protection Act, 2012",
+   "url": "https://ghalii.org/akn/gh/act/2012/843",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 100,
+     "source_url": "https://web.archive.org/web/20260414022511id_/https://ghalii.org/akn/gh/act/2012/843/eng@2012-05-18",
+     "sha256": "848645f90b98b8b7e78cd6bac95908bcf8fd80c40cad792371d29a67d1fa5281"
+    }
+   ]
+  },
+  {
+   "slug": "companies",
+   "short": "Companies Act 2019",
+   "title": "Companies Act, 2019",
+   "url": "https://ghalii.org/akn/gh/act/2019/992",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 398,
+     "source_url": "https://web.archive.org/web/20260218211453id_/https://ghalii.org/akn/gh/act/2019/992/eng@2019-08-02",
+     "sha256": "24c0832ded6bd9cb4abcb7cd2b57239684da0fd41957bdbf16b1410061433db6"
+    }
+   ]
+  },
+  {
+   "slug": "renewable-energy",
+   "short": "Renewable Energy Act",
+   "title": "Renewable Energy Act, 2011",
+   "url": "https://ghalii.org/akn/gh/act/2011/832",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20241201194147id_/https://ghalii.org/akn/gh/act/2011/832/eng@2011-12-31",
+     "sha256": "c1e727f2481864edd2cbd78ca3923a66342c4bf5790003a7d952dee03de56ee8"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260419084445id_/https://ghalii.org/akn/gh/act/2011/832/eng@2020-12-29",
+     "sha256": "9188203abcf498db097da5bb006ab3ce28926f73cba2bfe1e2d94f215e6ec3f7"
+    }
+   ]
+  },
+  {
+   "slug": "cybersecurity",
+   "short": "Cybersecurity Act 2020",
+   "title": "Cybersecurity Act, 2020 (Act 1038)",
+   "url": "https://dataprotection.org.gh/wp-content/uploads/2025/05/Cybersecurity-Act-2020-Act-1038_2.pdf",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 103,
+     "source_url": "https://dataprotection.org.gh/wp-content/uploads/2025/05/Cybersecurity-Act-2020-Act-1038_2.pdf",
+     "sha256": "e4c535fde704bea378e5249915f14a0f2cd2112686a4fd9193cd45ca8babf9a1"
+    }
+   ]
+  }
+ ]
+}
