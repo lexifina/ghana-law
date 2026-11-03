@@ -1,6 +1,146 @@
 key,label,kind,title,enacted,published,in_force_days,commits,url
+act-2,Act 2,law,"Land Development (Protection of Purchases) Act, 1960 (Act 2)",1960-08-09,1960-08-09,1960-08-09,1,https://repository.parliament.gh/handle/123456789/1877
+act-11,Act 11,law,"International Development Association Act, 1960 (Act 11)",1960-12-08,1960-12-08,1960-12-08,1,https://repository.parliament.gh/handle/123456789/1894
+act-26,Act 26,law,"Notaries Public Act, 1960 (Act 26)",1960-12-22,1960-12-22,1960-12-22,1,https://repository.parliament.gh/handle/123456789/2001
+act-75,Act 75,law,"Foreign Enlistment Act, 1961 (Act 75)",1961-08-17,1961-08-17,1961-08-17,1,https://repository.parliament.gh/handle/123456789/1833
+act-83,Act 83,law,"Diseases of Animals Act, 1961 (Act 83)",1961-11-01,1961-11-01,1961-11-01,1,https://repository.parliament.gh/handle/123456789/1804
+act-107,Act 107,law,"Farm Lands (Protection) Act, 1962 (Act 107)",1962-02-24,1962-02-24,1962-02-24,1,https://repository.parliament.gh/handle/123456789/1826
+act-122,Act 122,law,"Lands Registry Act, 1962 (Act 122)",1962-06-14,1962-06-14,1962-06-14,1,https://repository.parliament.gh/handle/123456789/1886
+act-148,Act 148,law,"Diplomatic Immunities Act, 1962 (Act 148)",1962-11-07,1962-11-07,1962-11-07,1,https://repository.parliament.gh/handle/123456789/1803
+act-156,Act 156,law,"Wholesale Fish Marketing Act, 1963 (Act 156)",1963-01-03,1963-01-03,1963-01-03,1,https://repository.parliament.gh/handle/123456789/2053
+act-170,Act 170,law,"Chartered Accountants Act, 1963 (Act 170)",1963-04-19,1963-04-19,1963-04-19,1,https://repository.parliament.gh/handle/123456789/1768
+act-176,Act 176,law,"Civil Liability Act, 1963 (Act 176)",1963-04-19,1963-04-19,1963-04-19,1,https://repository.parliament.gh/handle/123456789/1775
+act-186,Act 186,law,"Lands (Statutory Way Leaves) Act, 1963 (Act 186)",1963-07-16,1963-07-16,1963-07-16,1,https://repository.parliament.gh/handle/123456789/1892
+act-244,Act 244,law,"Habeas Corpus Act, 1964 (Act 244)",1964-05-26,1964-05-26,1964-05-26,1,https://repository.parliament.gh/handle/123456789/1857
+act-271,Act 271,law,"Estate Duty Act, 1965 (Act 271)",1965-03-23,1965-03-23,1965-03-23,1,https://repository.parliament.gh/handle/123456789/1820
+act-280,Act 280,law,"Anatomy Act, 1965 (Act 280)",1965-04-09,1965-04-09,1965-04-09,1,https://repository.parliament.gh/handle/123456789/2047
+act-302,Act 302,law,"Public Conveyancing Act, 1965 (Act 302)",1965-09-29,1965-09-29,1965-09-29,1,https://repository.parliament.gh/handle/123456789/1934
+act-313,Act 313,law,"Africa Defence (Ghana) Act, 1965 (Act 313)",1965-11-26,1965-11-26,1965-11-26,1,https://repository.parliament.gh/handle/123456789/1747
+act-426,Act 426,law,"Ghana National Service Scheme Act, 1980 (Act 426)",1980-09-23,1980-09-23,1980-09-23,1,https://repository.parliament.gh/handle/123456789/1854
+act-452,Act 452,law,"National Commission for Civic Education Act, 1993 (Act 452)",1993-07-06,1993-07-06,1993-07-06,1,https://repository.parliament.gh/handle/123456789/1902
+act-472,Act 472,law,"Emergency Powers Act, 1994 (Act 472)",1994-02-14,1994-02-14,1994-02-14,1,https://repository.parliament.gh/handle/123456789/1814
+act-479,Act 479,law,"National Development Planning Commission Act, 1994 (Act 479)",1994-08-29,1994-09-02,1994-08-29,1,https://repository.parliament.gh/handle/123456789/1972
+act-490,Act 490,law,"Environmental Protection Agency Act, 1994 (Act 490)",1994-12-30,1994-12-30,1994-12-30,1,https://repository.parliament.gh/handle/123456789/1819
+act-491,Act 491,law,"Public Order Act, 1994 (Act 491)",1994-12-30,1994-12-30,1994-12-30,1,https://repository.parliament.gh/handle/123456789/2040
+act-528,Act 528,law,"Pesticides Control and Management Act, 1996 (Act 528)",1996-12-23,1996-12-31,1996-12-23,1,https://repository.parliament.gh/handle/123456789/1909
+act-537,Act 537,law,"The Ghana National Fire Service Act, 1997 (Act 537)",1997-08-29,1997-09-05,1997-08-29,1,https://repository.parliament.gh/handle/123456789/2105
+act-540,Act 540,law,"Ghana Highway Authority Act, 1997 (Act 540)",1997-12-31,1997-12-31,1997-12-31,1,https://repository.parliament.gh/handle/123456789/1848
+act-549,Act 549,law,"Powers of Attorney Act, 1998 (Act 549)",1998-04-27,1998-05-04,1998-04-27,1,https://repository.parliament.gh/handle/123456789/1938
+act-572,Act 572,law,"Fines(Penalty Units)Act, 2000 (Act 572)",2000-02-02,2000-02-11,2000-02-02,1,https://repository.parliament.gh/handle/123456789/1830
+act-573,Act 573,law,"Immigration Act, 2000 (Act 573)",2000-02-02,2000-02-11,2000-02-02,1,https://repository.parliament.gh/handle/123456789/1860
+act-582,Act 582,law,"Export Development and Investment Fund Act, 2000 (Act 582)",2000-10-04,2000-10-06,2000-10-04,1,https://repository.parliament.gh/handle/123456789/1823
+act-588,Act 588,law,"Atomic Energy Commission Act, 2000 (Act 588)",2000-11-27,2000-12-08,2000-11-27,1,https://repository.parliament.gh/handle/123456789/1759
+act-589,Act 589,law,"Protection against Unfair Competition Act, 2000 (Act 589)",2000-12-19,2000-12-22,2000-12-19,1,https://repository.parliament.gh/handle/123456789/1935
+act-591,Act 591,law,"Citizen Act, 2000 (Act 591)",2000-12-29,2000-12-29,2000-12-29,1,https://repository.parliament.gh/handle/123456789/1773
+act-611,Act 611,law,"National Reconciliation Commission Act, 2002 (Act 611)",2002-01-09,2002-01-11,2002-01-09,1,https://repository.parliament.gh/handle/123456789/1924
+act-625,Act 625,law,"Fisheries Act, 2002 (Act 625)",2002-01-16,2002-01-16,2002-01-16,1,https://repository.parliament.gh/handle/123456789/1832
+act-612,Act 612,law,"Bank of Ghana Act, 2002 (Act 612)",2002-01-24,2002-01-25,2002-01-24,1,https://repository.parliament.gh/handle/123456789/1761
+act-616,Act 616,law,"Ghana Investment Fund Act, 2002 (Act 616)",2002-04-08,2002-04-12,2002-04-08,1,https://repository.parliament.gh/handle/123456789/1851
+act-630,Act 630,law,"Ghana Maritime Authority Act, 2002 (Act 630)",2002-07-25,2002-08-02,2002-07-25,1,https://repository.parliament.gh/handle/123456789/1853
+act-647,Act 647,law,"Institute of Local Government Studies Act, 2003 (Act 647)",2003-07-03,2003-07-03,2003-07-03,1,https://repository.parliament.gh/handle/123456789/1872
+act-649,Act 649,law,"Postal and Courier Services Regulatory Commission Act, 2003 (Act 649)",2003-08-10,2003-08-15,2003-08-10,1,https://repository.parliament.gh/handle/123456789/1940
+act-651,Act 651,law,"Labour Act, 2003 (Act 651)",2003-10-08,2003-10-10,2003-10-08,1,https://repository.parliament.gh/handle/123456789/1874
+act-652,Act 652,law,"Kimberley Process Certificate Act, 2003 (Act 652)",2003-10-24,2003-10-24,2003-10-24,1,https://repository.parliament.gh/handle/123456789/1890
+act-653,Act 653,law,"Juvenile Justice Act, 2003 (Act 653)",2003-10-28,2003-10-31,2003-10-28,1,https://repository.parliament.gh/handle/123456789/1891
+act-657,Act 657,law,"Patents Act, 2003 (Act 657)",2003-12-31,2003-12-31,2003-12-31,1,https://repository.parliament.gh/handle/123456789/1914
+act-659,Act 659,law,"Geographical Indications Act, 2003 (Act 659)",2003-12-31,2003-12-31,2003-12-31,1,https://repository.parliament.gh/handle/123456789/1839
+act-664,Act 664,law,"Trade Marks Act, 2004 (Act 664)",2004-01-29,2004-02-06,2004-01-29,1,https://repository.parliament.gh/handle/123456789/2140
+act-675,Act 675,law,"Ghana Maritime Security Act, 2004 (Act 675)",2004-11-01,2004-11-12,2004-11-01,1,https://repository.parliament.gh/handle/123456789/1841
+act-676,Act 676,law,"Ghana Institute of Management and Public Administration Act, 2004 (Act 676)",2004-11-11,2004-11-12,2004-11-11,1,https://repository.parliament.gh/handle/123456789/1849
+act-684,Act 684,law,"Internal Revenue (Registration of Business) Act, 2005 (Act 684)",2005-01-06,2005-01-14,2005-01-06,1,https://repository.parliament.gh/handle/123456789/1896
+act-690,Act 690,law,"Copyright Act, 2005 (Act 690)",2005-05-17,2005-06-03,2005-05-17,1,https://repository.parliament.gh/handle/123456789/1785
+act-691,Act 691,law,"National Petroleum Authority Act, 2005 (Act 691)",2005-06-14,2005-06-14,2005-06-14,1,https://repository.parliament.gh/handle/123456789/1926
+act-694,Act 694,law,"Human Trafficking Act, 2005 (Act 694)",2005-12-05,2005-12-09,2005-12-05,1,https://repository.parliament.gh/handle/123456789/1859
+act-701,Act 701,law,"The Ghana National Commission on Children ( Repeal) Act, 2006 (Act 701)",2006-03-23,2006-03-24,2006-03-23,1,https://repository.parliament.gh/handle/123456789/2104
+act-706,Act 706,law,"Subvented Agencies Act, 2006 (Act 706)",2006-04-06,2006-04-07,2006-04-06,1,https://repository.parliament.gh/handle/123456789/2082
+act-708,Act 708,law,"Insolvency Act, 2006 (Act 708)",2006-04-18,2006-04-21,2006-04-18,1,https://repository.parliament.gh/handle/123456789/1870
+act-716,Act 716,law,"Auction Sales Act, 2006 (Act 716)",2006-08-14,2006-08-15,2006-08-14,1,https://repository.parliament.gh/handle/123456789/1760
+act-719,Act 719,law,"The West African Examination Council Act, 2006 (Act 719)",2006-08-31,2006-08-31,2006-08-31,1,https://repository.parliament.gh/handle/123456789/2110
+act-717,Act 717,law,"Institute of Journalism Act, 2006 (Act 717)",2006-08-31,2006-09-01,2006-08-31,1,https://repository.parliament.gh/handle/123456789/1871
+act-718,Act 718,law,"Council for Technical and Vocational Education and Training Act, 2006 (Act 718)",2006-08-31,2006-09-01,2006-08-31,1,https://repository.parliament.gh/handle/123456789/1790
+act-720,Act 720,law,"Whistleblower Act, Act, 2006 (Act 720)",2006-10-16,2006-10-20,2006-10-16,1,https://repository.parliament.gh/handle/123456789/2054
+act-721,Act 721,law,"Gaming Act, 2006 (Act 721)",2006-12-22,2006-12-22,2006-12-22,1,https://repository.parliament.gh/handle/123456789/1838
+act-724,Act 724,law,"Insurance Act, 2006 (Act 724)",2006-12-29,2006-12-29,2006-12-29,1,https://repository.parliament.gh/handle/123456789/1873
+act-725,Act 725,law,"Appropriation Act, 2006 (Act 725)",2006-12-29,2006-12-29,2006-12-29,1,https://repository.parliament.gh/handle/123456789/2045
+act-728,Act 728,law,"National Reconstruction Levy (Repeal) Act, 2007 (Act 728)",2007-04-05,2007-04-13,2007-04-05,1,https://repository.parliament.gh/handle/123456789/2007
+act-733,Act 733,law,"Central Securities Depository Act, 2007 (Act 733)",2007-05-16,2007-05-24,2007-05-16,1,https://repository.parliament.gh/handle/123456789/1767
+act-735,Act 735,law,"Ministries, Departments and Agencies (Retention of Funds) Act, 2007 (Act 735)",2007-05-18,2007-05-24,2007-05-18,1,https://repository.parliament.gh/handle/123456789/1923
+act-737,Act 737,law,"Fair Wages and Salaries Commission Act, 2007 (Act 737)",2007-06-04,2007-06-08,2007-06-04,1,https://repository.parliament.gh/handle/123456789/1825
+act-743,Act 743,law,"Transfer of Convicted Persons Act, 2007 (Act 743)",2007-08-20,2007-08-24,2007-08-20,1,https://repository.parliament.gh/handle/123456789/2138
+act-746,Act 746,law,"The restriction on use of military uniforms and equipment (Amendment) Act, 2008 (Act 746)",2008-01-04,2008-01-04,2008-01-04,1,https://repository.parliament.gh/handle/123456789/2107
+act-757,Act 757,law,"Internal Revenue (Amendment) Act, 2008 (Act 757)",2008-06-16,2008-06-16,2008-06-16,1,https://repository.parliament.gh/handle/123456789/1899
+act-759,Act 759,law,"Chieftaincy Act, 2008 (Act 759)",2008-06-16,2008-06-20,2008-06-16,1,https://repository.parliament.gh/handle/123456789/1771
+act-760,Act 760,law,"Financial Administration (Amendment) Act, 2008 (Act 760)",2008-07-02,2008-07-04,2008-07-02,1,https://repository.parliament.gh/handle/123456789/1828
+act-761,Act 761,law,"Road Traffic (Amendment) Act, 2008 (Act 761)",2008-09-29,2008-10-03,2008-09-29,1,https://repository.parliament.gh/handle/123456789/2069
+act-766,Act 766,law,"National Pensions Act, 2008 (Act 766)",2008-12-04,2008-12-12,2008-12-04,1,https://repository.parliament.gh/handle/123456789/1927
+act-767,Act 767,law,"Lands Commission Act, 2008 (Act 767)",2008-12-04,2008-12-12,2008-12-04,1,https://repository.parliament.gh/handle/123456789/1888
+act-771,Act 771,law,"National Information Technology Agency Act, 2008 (Act 771)",2008-12-11,2008-12-19,2008-12-11,1,https://repository.parliament.gh/handle/123456789/1931
+act-769,Act 769,law,"National Communications Authority Act, 2008 (Act 769)",2008-12-11,2009-01-09,2008-12-11,1,https://repository.parliament.gh/handle/123456789/1901
+act-774,Act 774,law,"Non - Bank Financial Institution Act, 2008 (Act 774)",2008-12-23,2009-01-09,2008-12-23,1,https://repository.parliament.gh/handle/123456789/2003
 act-2011-832,Act 832 of 2011,law,"Renewable Energy Act, 2011",2011-12-31,2011-12-31,2011-12-31,1,https://ghalii.org/akn/gh/act/2011/832
 act-2012-843,Act 843 of 2012,law,"Data Protection Act, 2012",2012-05-10,2012-05-18,2012-10-16,1,https://ghalii.org/akn/gh/act/2012/843
+act-902,Act 902,law,"Income Tax (Amendment) Act, 2015 (Act 902)",2015-12-30,2015-12-30,2015-12-30,1,https://repository.parliament.gh/handle/123456789/1865
+act-907,Act 907,law,"Income Tax (Amendment) Act, 2016 (Act 907)",2016-02-18,2016-02-18,2016-02-18,1,https://repository.parliament.gh/handle/123456789/1866
+act-908,Act 908,law,"Immigration Service Act, 2016 (Act 908)",2016-03-08,2016-03-08,2016-03-08,1,https://repository.parliament.gh/handle/123456789/1861
+act-919,Act 919,law,"Petroleum (Exploration and Production) Act, 2016 (Act 919)",2016-08-19,2016-08-19,2016-08-19,1,https://repository.parliament.gh/handle/123456789/1908
+act-943,Act 943,law,"Customs and Excise (Petroleum Taxes and Petroleum Related Levies) (Repeal) Act, 2017 (Act 943)",2017-03-15,2017-03-15,2017-03-15,1,https://repository.parliament.gh/handle/123456789/1798
+act-946,Act 946,law,"Energy Sector Levies (Amendment) Act, 2017 (Act 946)",2017-04-05,2017-04-07,2017-04-05,1,https://repository.parliament.gh/handle/123456789/1816
+act-947,Act 947,law,"Earmarked Funds Capping and Realignment Act, 2017 (Act 947)",2017-04-05,2017-04-07,2017-04-05,1,https://repository.parliament.gh/handle/123456789/1808
+act-948,Act 948,law,"Value Added Tax (Amendment) Act, 2017 (Act 948)",2017-04-05,2017-04-07,2017-04-05,1,https://repository.parliament.gh/handle/123456789/2139
+act-952,Act 952,law,"African Union Import Levy Act, 2017 (Act 952)",2017-12-29,2017-12-29,2017-12-29,1,https://repository.parliament.gh/handle/123456789/1755
+act-954,Act 954,law,"Value Added Tax (Amendment) (No. 2) Act, 2017 (Act 954)",2017-12-29,2017-12-29,2017-12-29,1,https://repository.parliament.gh/handle/123456789/2112
+act-955,Act 955,law,"Tax Amnesty Act, 2017 (Act 955)",2017-12-29,2017-12-29,2017-12-29,1,https://repository.parliament.gh/handle/123456789/2099
+act-956,Act 956,law,"Income Tax (Amendment) (No. 2) Act, 2017 (Act 956)",2017-12-29,2017-12-29,2017-12-29,1,https://repository.parliament.gh/handle/123456789/1863
+act-957,Act 957,law,"Customs (Amendment) (No.2) Act, 2017 (Act 957)",2017-12-29,2017-12-29,2017-12-29,1,https://repository.parliament.gh/handle/123456789/1797
+act-958,Act 958,law,"National Fiscal Stability Levy (Amendment) Act, 2017 (Act 958)",2017-12-29,2017-12-29,2017-12-29,1,https://repository.parliament.gh/handle/123456789/1942
+act-966,Act 966,law,"Taxation( Use of Fiscal Electronic Device) Act, 2018 (Act 966)",2018-05-04,2018-05-04,2018-05-04,1,https://repository.parliament.gh/handle/123456789/2100
+act-968,Act 968,law,"Ghana Deposit Protection (Amendment) Act, 2018 (Act 968)",2018-05-04,2018-05-04,2018-05-04,1,https://repository.parliament.gh/handle/123456789/1842
+act-970,Act 970,law,"Value Added Tax (Amendment) Act, 2018 (Act 970)",2018-07-31,2018-08-01,2018-07-31,1,https://repository.parliament.gh/handle/123456789/2136
+act-971,Act 971,law,"National Health Insurance (Amendment) Act, 2018 (Act 971)",2018-07-31,2018-08-01,2018-07-31,1,https://repository.parliament.gh/handle/123456789/1939
+act-972,Act 972,law,"Ghana Education Trust Fund (Amendment) Act, 2018 (Act 972)",2018-07-31,2018-08-01,2018-07-31,1,https://repository.parliament.gh/handle/123456789/1844
+act-973,Act 973,law,"Income Tax (Amendment) Act, 2018 (Act 973)",2018-07-31,2018-08-01,2018-07-31,1,https://repository.parliament.gh/handle/123456789/1868
+act-974,Act 974,law,"Technical Universities (Amendment) Act, 2018 (Act 974)",2018-08-24,2018-08-30,2018-08-24,1,https://repository.parliament.gh/handle/123456789/2102
+act-975,Act 975,law,"Witness Protection Act, 2018 (Act 975)",2018-08-24,2018-08-30,2018-08-24,1,https://repository.parliament.gh/handle/123456789/2051
+act-977,Act 977,law,"Legal Aid Commission Act, 2018 (Act 977)",2018-09-13,2018-09-17,2018-09-13,1,https://repository.parliament.gh/handle/123456789/1881
+act-978,Act 978,law,"Minerals Income Investment Fund Act, 2018 (Act 978)",2018-12-03,2018-12-06,2018-12-03,1,https://repository.parliament.gh/handle/123456789/1897
+act-980,Act 980,law,"Value Added Tax (Amendment) (No.2) Act, 2018 (Act 980)",2018-12-28,2018-12-31,2018-12-28,1,https://repository.parliament.gh/handle/123456789/2113
+act-981,Act 981,law,"Excise Tax Stamp (Amendment) Act, 2018 (Act 981)",2018-12-28,2018-12-31,2018-12-28,1,https://repository.parliament.gh/handle/123456789/1821
+act-982,Act 982,law,"Fiscal Responsibility Act, 2018 (Act 982)",2018-12-28,2018-12-31,2018-12-28,1,https://repository.parliament.gh/handle/123456789/1831
+act-987,Act 987,law,"Payment Systems and Services Act, 2019 (Act 987)",2019-05-13,2019-05-14,2019-05-13,1,https://repository.parliament.gh/handle/123456789/1912
+act-988,Act 988,law,"Ghana Integrated Iron and Steel Development Corporation Act, 2019 (Act 988)",2019-05-13,2019-05-14,2019-05-13,1,https://repository.parliament.gh/handle/123456789/1850
+act-990,Act 990,law,"State Interests and Governance Authority Act, 2019 (Act 990)",2019-06-07,2019-06-07,2019-06-07,1,https://repository.parliament.gh/handle/123456789/2072
 act-2019-992,Act 992 of 2019,law,"Companies Act, 2019",2019-08-02,2019-08-02,2019-08-02,1,https://ghalii.org/akn/gh/act/2019/992
+act-993,Act 993,law,"National Road Safety Authority Act, 2019 (Act 993)",2019-08-02,2019-08-02,2019-08-02,1,https://repository.parliament.gh/handle/123456789/2006
+act-996,Act 996,law,"Luxury Vehicle Levy (Repeal) Act, 2019 (Act 996)",2019-08-19,2019-08-19,2019-08-19,1,https://repository.parliament.gh/handle/123456789/1922
+act-998,Act 998,law,"Communications Service Tax (Amendment) Act, 2019 (Act 998)",2019-08-19,2019-08-19,2019-08-19,1,https://repository.parliament.gh/handle/123456789/1779
+act-1000,Act 1000,law,"C.K. TEDAM UNIVERSITY OF TECHNOLOGY AND APPLIED SCIENCES ACT, 2019 (Act 1000)",2019-08-23,2019-08-23,2019-08-23,1,https://repository.parliament.gh/handle/123456789/1766
+act-999,Act 999,law,"Vigilantism and Related Offences Act, 2019 (Act 999)",2019-08-23,2019-08-23,2019-08-23,1,https://repository.parliament.gh/handle/123456789/2057
+act-1002,Act 1002,law,"Ghana Meteorological Agency (Amendment) Act, 2019 (Act 1002)",2019-09-24,2019-09-27,2019-09-24,1,https://repository.parliament.gh/handle/123456789/1840
+act-1009,Act 1009,law,"Ghana Health Service and Teaching Hospitals (Amendment) Act, 2019 (Act 1009)",2019-12-27,2019-12-30,2019-12-27,1,https://repository.parliament.gh/handle/123456789/1846
+act-1006,Act 1006,law,"Electronic Communications (Amendment) Act, 2019 (Act 1006)",2019-12-28,2019-12-30,2019-12-28,1,https://repository.parliament.gh/handle/123456789/1812
+act-1010,Act 1010,law,"Tree Crops Development Authority Act, 2019 (Act 1010)",2019-12-28,2019-12-30,2019-12-28,1,https://repository.parliament.gh/handle/123456789/2137
+act-1012,Act 1012,law,"Imposition of Restrictions Act, 2020 (Act 1012)",2020-03-21,2020-03-21,2020-03-21,1,https://repository.parliament.gh/handle/123456789/1862
+act-1013,Act 1013,law,"Novel Corona Virus (Covid- 19) National Trust Fund Act, 2020 (Act 1013)",2020-04-03,2020-04-03,2020-04-03,1,https://repository.parliament.gh/handle/123456789/2000
+act-1016,Act 1016,law,"Technical Universities (Amendment) Act, 2020 (Act 1016)",2020-04-30,2020-04-30,2020-04-30,1,https://repository.parliament.gh/handle/123456789/2103
+act-1019,Act 1019,law,"Narcotics Control Commission Act, 2020 (Act 1019)",2020-05-11,2020-05-11,2020-05-11,1,https://repository.parliament.gh/handle/123456789/1921
+act-1020,Act 1020,law,"Chartered Institute of Human Resource Management, Ghana Act, 2020 (Act 1020)",2020-08-13,2020-08-13,2020-08-13,1,https://repository.parliament.gh/handle/123456789/1769
+act-1021,Act 1021,law,"Chartered Institute of Marketing, Ghana Act, 2020 (Act 1021)",2020-08-13,2020-08-13,2020-08-13,1,https://repository.parliament.gh/handle/123456789/1770
+act-1025,Act 1025,law,"Communications Service Tax (Amendment) Act, 2020 (Act 1025)",2020-08-27,2020-08-27,2020-08-27,1,https://repository.parliament.gh/handle/123456789/1780
+act-1026,Act 1026,law,"Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development Act, 2020 (Act 1026)",2020-08-27,2020-08-27,2020-08-27,1,https://repository.parliament.gh/handle/123456789/1757
+act-1027,Act 1027,law,"Registration of Births and Deaths Act, 2020 (Act 1027)",2020-10-06,2020-10-06,2020-10-06,1,https://repository.parliament.gh/handle/123456789/2061
+act-1029,Act 1029,law,"Revenue Administration (Amendment) Act, 2020 (Act 1029)",2020-10-06,2020-10-06,2020-10-06,1,https://repository.parliament.gh/handle/123456789/2064
+act-1034,Act 1034,law,"Criminal Offences (Amendment) Act, 2020 (Act 1034)",2020-10-27,2020-10-27,2020-10-27,1,https://repository.parliament.gh/handle/123456789/1795
+act-1048,Act 1048,law,"Creative Arts Industry Act, 2020 (Act 1048)",2020-12-29,2020-10-27,2020-12-29,1,https://repository.parliament.gh/handle/123456789/1793
+act-1036,Act 1036,law,"Land Act, 2020 (Act 1036)",2020-12-23,2020-12-23,2020-12-23,1,https://repository.parliament.gh/handle/123456789/1875
+act-1037,Act 1037,law,"Council of State Act, 2020 (Act 1037)",2020-12-23,2020-12-23,2020-12-23,1,https://repository.parliament.gh/handle/123456789/1791
 act-1038,Act 1038,law,"Cybersecurity Act, 2020",2020-12-29,2020-12-29,2020-12-29,1,https://dataprotection.org.gh/wp-content/uploads/2025/05/Cybersecurity-Act-2020-Act-1038_2.pdf
+act-1039,Act 1039,law,"Public Private Partnership Act, 2020 (Act 1039)",2020-12-29,2020-12-29,2020-12-29,1,https://repository.parliament.gh/handle/123456789/2039
+act-1040,Act 1040,law,"National Signals Bureau Act, 2020 (Act 1040)",2020-12-29,2020-12-29,2020-12-29,1,https://repository.parliament.gh/handle/123456789/2004
+act-1041,Act 1041,law,"National Ambulance Service Act, 2020 (Act 1041)",2020-12-29,2020-12-29,2020-12-29,1,https://repository.parliament.gh/handle/123456789/1919
+act-1042,Act 1042,law,"National Blood Service Act, 2020 (Act 1042)",2020-12-29,2020-12-29,2020-12-29,1,https://repository.parliament.gh/handle/123456789/1918
+act-1043,Act 1043,law,"Ghana Enterprises Agency Act, 2020 (Act 1043)",2020-12-29,2020-12-29,2020-12-29,1,https://repository.parliament.gh/handle/123456789/1845
+act-1047,Act 1047,law,"Real Estate Agency Act, 2020 (Act 1047)",2020-12-29,2020-12-29,2020-12-29,1,https://repository.parliament.gh/handle/123456789/2060
+act-1053,Act 1053,law,"Petroleum Hub Development Corporation Act, 2020 (Act 1053)",2020-12-29,2020-12-29,2020-12-29,1,https://repository.parliament.gh/handle/123456789/1907
+act-1064,Act 1064,law,"Energy Sector Levies (Amendment) Act, 2021 (Act 1064)",2021-03-31,2021-03-31,2021-03-31,1,https://repository.parliament.gh/handle/123456789/1818
+act-1067,Act 1067,law,"Financial Sector Recovery Levy Act, 2021 (Act 1067)",2021-03-31,2021-03-31,2021-03-31,1,https://repository.parliament.gh/handle/123456789/1829
 act-2020-1045,Act 1045 of 2020,law,"Renewable Energy (Amendment) Act, 2020",,,2020-12-29,1,https://ghalii.org/akn/gh/act/2020/1045

@@ -1,0 +1,10 @@
+# National Health Insurance (Amendment) Act, 2018 (Act 971)
+
+National Health Insurance (Amendment) Act 2018 · 1 versions, from 2018-07-31 (latest in force: 2018-07-31) · <https://repository.parliament.gh/handle/123456789/1939>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
