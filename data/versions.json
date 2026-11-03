@@ -62,6 +62,1966 @@
      "sha256": "e4c535fde704bea378e5249915f14a0f2cd2112686a4fd9193cd45ca8babf9a1"
     }
    ]
+  },
+  {
+   "slug": "act-0651",
+   "short": "Labour Act 2003",
+   "title": "Labour Act, 2003 (Act 651)",
+   "url": "https://repository.parliament.gh/handle/123456789/1874",
+   "versions": [
+    {
+     "from": "2003-10-08",
+     "units": 184,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/ee969fe1-2e2d-4dff-af2f-5fbc8062884f/content",
+     "sha256": "1f0bd3a2916c425a1d85373fc500ac9ef8ac0a03fd92609979b28a922c564795"
+    }
+   ]
+  },
+  {
+   "slug": "act-0684",
+   "short": "Internal Revenue (Registration of Business) Act 2005",
+   "title": "Internal Revenue (Registration of Business) Act, 2005 (Act 684)",
+   "url": "https://repository.parliament.gh/handle/123456789/1896",
+   "versions": [
+    {
+     "from": "2005-01-06",
+     "units": 14,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/1663927f-0ed0-4872-ab9a-9b049c4384cc/content",
+     "sha256": "1fdd72b78eb588a8e34f25888f03d95ea498ec91998677c753b544056cd45d42"
+    }
+   ]
+  },
+  {
+   "slug": "act-0701",
+   "short": "The Ghana National Commission on Children ( Repeal) Act 2006",
+   "title": "The Ghana National Commission on Children ( Repeal) Act, 2006 (Act 701)",
+   "url": "https://repository.parliament.gh/handle/123456789/2104",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/84283ad7-1d46-4e2e-b336-ab6f862c08cc/content",
+     "sha256": "236c67c14e3902602fc23b8bad40b3aacb4a51d1cb0769c6dd23a4c820d9e44c"
+    }
+   ]
+  },
+  {
+   "slug": "act-0708",
+   "short": "Insolvency Act 2006",
+   "title": "Insolvency Act, 2006 (Act 708)",
+   "url": "https://repository.parliament.gh/handle/123456789/1870",
+   "versions": [
+    {
+     "from": "2006-04-18",
+     "units": 80,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/eea0b2e0-95df-4b93-9715-f912c52eb013/content",
+     "sha256": "bd68b7de6c46614134142402da70d1cc6043859f8ef96c34ad8f4801f5dba2d1"
+    }
+   ]
+  },
+  {
+   "slug": "act-0757",
+   "short": "Internal Revenue (Amendment) Act 2008",
+   "title": "Internal Revenue (Amendment) Act, 2008 (Act 757)",
+   "url": "https://repository.parliament.gh/handle/123456789/1899",
+   "versions": [
+    {
+     "from": "2008-06-16",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/016b63f2-e305-46ee-863b-34546f816fba/content",
+     "sha256": "3179dd422a7c9439d299dcdfd647349864ddbcdd769d75f84bb227f05f19d704"
+    }
+   ]
+  },
+  {
+   "slug": "act-0902",
+   "short": "Income Tax (Amendment) Act 2015",
+   "title": "Income Tax (Amendment) Act, 2015 (Act 902)",
+   "url": "https://repository.parliament.gh/handle/123456789/1865",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/6360fba6-8228-4979-a4cd-a63daa72ece1/content",
+     "sha256": "23c8fcf409a4e24b8c67e52f13be2f01a1a76277a189d4c7579f92dfe4e6c7eb"
+    }
+   ]
+  },
+  {
+   "slug": "act-0907",
+   "short": "Income Tax (Amendment) Act 2016",
+   "title": "Income Tax (Amendment) Act, 2016 (Act 907)",
+   "url": "https://repository.parliament.gh/handle/123456789/1866",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 4,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/3b4d834d-5ac6-4e7d-be1d-a9599cd1e9b0/content",
+     "sha256": "f636e59bc8ddcbb95d9f68f9fdc2d006e36fdf99ce352a38ffd6c18b19a378cb"
+    }
+   ]
+  },
+  {
+   "slug": "act-0948",
+   "short": "Value Added Tax (Amendment) Act 2017",
+   "title": "Value Added Tax (Amendment) Act, 2017 (Act 948)",
+   "url": "https://repository.parliament.gh/handle/123456789/2139",
+   "versions": [
+    {
+     "from": "2017-04-05",
+     "units": 6,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/1db2f170-d8be-43d8-84bd-a64c4e984b74/content",
+     "sha256": "0219eeccb0023bae2a51373d8b13756643bf7a5c4661ec9a28d1b0eeea1a65b9"
+    }
+   ]
+  },
+  {
+   "slug": "act-0954",
+   "short": "Value Added Tax (Amendment) (No. 2) Act 2017",
+   "title": "Value Added Tax (Amendment) (No. 2) Act, 2017 (Act 954)",
+   "url": "https://repository.parliament.gh/handle/123456789/2112",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 7,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/d2d96793-9340-4e7f-8b73-34177e54a5ea/content",
+     "sha256": "2bcab8d77ea7c24009d7f32e5f5be34b042cf77b23aba26abd557fcd4d8a1498"
+    }
+   ]
+  },
+  {
+   "slug": "act-0956",
+   "short": "Income Tax (Amendment) (No. 2) Act 2017",
+   "title": "Income Tax (Amendment) (No. 2) Act, 2017 (Act 956)",
+   "url": "https://repository.parliament.gh/handle/123456789/1863",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 5,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/2e4496fc-05ca-4f80-b2e5-3866ad4149c4/content",
+     "sha256": "6fc0ccf7b45429f010d7a6e216b2b77ae338d414178f044264bffca819d97b36"
+    }
+   ]
+  },
+  {
+   "slug": "act-0966",
+   "short": "Taxation( Use of Fiscal Electronic Device) Act 2018",
+   "title": "Taxation( Use of Fiscal Electronic Device) Act, 2018 (Act 966)",
+   "url": "https://repository.parliament.gh/handle/123456789/2100",
+   "versions": [
+    {
+     "from": "2018-05-04",
+     "units": 45,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/8d4a3072-0528-4f2c-a0c2-7bc92d0a5232/content",
+     "sha256": "7209677be732bf2932af492ca99a98e4000a96e5680391d2259ae7221706d901"
+    }
+   ]
+  },
+  {
+   "slug": "act-0968",
+   "short": "Ghana Deposit Protection (Amendment) Act 2018",
+   "title": "Ghana Deposit Protection (Amendment) Act, 2018 (Act 968)",
+   "url": "https://repository.parliament.gh/handle/123456789/1842",
+   "versions": [
+    {
+     "from": "2018-05-04",
+     "units": 15,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/511c1068-d322-40b2-aecd-77024669075f/content",
+     "sha256": "0a07ee85ea6659fb817ca83d1282f9fd5ccbd2365ff564c1c34e2048dca1544f"
+    }
+   ]
+  },
+  {
+   "slug": "act-0970",
+   "short": "Value Added Tax (Amendment) Act 2018",
+   "title": "Value Added Tax (Amendment) Act, 2018 (Act 970)",
+   "url": "https://repository.parliament.gh/handle/123456789/2136",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 2,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/b5cae9d7-ea9d-45d9-8945-789d9822b54f/content",
+     "sha256": "a34b148f785f59b3c9e7526b5eda99eef7266c58906ae120ce1db1d7c33aea5a"
+    }
+   ]
+  },
+  {
+   "slug": "act-0971",
+   "short": "National Health Insurance (Amendment) Act 2018",
+   "title": "National Health Insurance (Amendment) Act, 2018 (Act 971)",
+   "url": "https://repository.parliament.gh/handle/123456789/1939",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 4,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/afd3ef04-65ff-483a-a50c-66bf05f0aad9/content",
+     "sha256": "e2677d0b44181e0163ca35ea51799b9c3162abeccea1a331b479829c3e428b6e"
+    }
+   ]
+  },
+  {
+   "slug": "act-0972",
+   "short": "Ghana Education Trust Fund (Amendment) Act 2018",
+   "title": "Ghana Education Trust Fund (Amendment) Act, 2018 (Act 972)",
+   "url": "https://repository.parliament.gh/handle/123456789/1844",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 4,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/85adb3f5-593c-499d-9217-3d042682e492/content",
+     "sha256": "121bb07eefbd6d23aec4842054a7f1f22da6c7f626aea4b80907ab0097c88f9b"
+    }
+   ]
+  },
+  {
+   "slug": "act-0973",
+   "short": "Income Tax (Amendment) Act 2018",
+   "title": "Income Tax (Amendment) Act, 2018 (Act 973)",
+   "url": "https://repository.parliament.gh/handle/123456789/1868",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 2,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/a4100ed9-db48-4dd7-a3e0-769152a312b0/content",
+     "sha256": "40d5f88e30a3c600a05f0a0605202b54ca2e18d873f8ea7efdc420da7df82b8e"
+    }
+   ]
+  },
+  {
+   "slug": "act-0974",
+   "short": "Technical Universities (Amendment) Act 2018",
+   "title": "Technical Universities (Amendment) Act, 2018 (Act 974)",
+   "url": "https://repository.parliament.gh/handle/123456789/2102",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 13,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/2e11d082-8dc9-4806-9961-98d59727f45b/content",
+     "sha256": "197223bc971ae4732cab9c635dccc45c6e20b7d7ccc44bcffafacf037d1803d3"
+    }
+   ]
+  },
+  {
+   "slug": "act-0975",
+   "short": "Witness Protection Act 2018",
+   "title": "Witness Protection Act, 2018 (Act 975)",
+   "url": "https://repository.parliament.gh/handle/123456789/2051",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 61,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/40f47072-5b5f-4a1e-a7d3-e555e1c000cf/content",
+     "sha256": "4dee78065921e40f9d4646aac73890f93ebb0f874e4e349b62efa2bcc4b71706"
+    }
+   ]
+  },
+  {
+   "slug": "act-0977",
+   "short": "Legal Aid Commission Act 2018",
+   "title": "Legal Aid Commission Act, 2018 (Act 977)",
+   "url": "https://repository.parliament.gh/handle/123456789/1881",
+   "versions": [
+    {
+     "from": "2018-09-13",
+     "units": 62,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/83ff5edc-2782-45ac-b419-b8bff630e450/content",
+     "sha256": "e6e6b65ddc25a998a93483ecbd08e452f3af1d19c863b9f4a5ff814c0bd88c53"
+    }
+   ]
+  },
+  {
+   "slug": "act-0980",
+   "short": "Value Added Tax (Amendment) (No.2) Act 2018",
+   "title": "Value Added Tax (Amendment) (No.2) Act, 2018 (Act 980)",
+   "url": "https://repository.parliament.gh/handle/123456789/2113",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/ee2fb25c-6f72-4b89-9aac-bcd7c9bc1c31/content",
+     "sha256": "65c483caa1b5174e906aaa651d3f38ee6839d34b5200e5fcd9ec9020191f6068"
+    }
+   ]
+  },
+  {
+   "slug": "act-0987",
+   "short": "Payment Systems and Services Act 2019",
+   "title": "Payment Systems and Services Act, 2019 (Act 987)",
+   "url": "https://repository.parliament.gh/handle/123456789/1912",
+   "versions": [
+    {
+     "from": "2019-05-13",
+     "units": 109,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/aeeaa5d0-b9ff-4cd6-a604-e67b4a1655f9/content",
+     "sha256": "d4d8d26b98b17f2230f0c210a3a9a995bbd82e2c457c414defbfd733802ddcb3"
+    }
+   ]
+  },
+  {
+   "slug": "act-0988",
+   "short": "Ghana Integrated Iron and Steel Development Corporation Act 2019",
+   "title": "Ghana Integrated Iron and Steel Development Corporation Act, 2019 (Act 988)",
+   "url": "https://repository.parliament.gh/handle/123456789/1850",
+   "versions": [
+    {
+     "from": "2019-05-13",
+     "units": 32,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/e78c3f8f-ad62-40b6-87f4-d66e314a99c0/content",
+     "sha256": "267e10b7a06de764f046766922a05cdcd79f187cfd5c01b88a15fff283db9deb"
+    }
+   ]
+  },
+  {
+   "slug": "act-0990",
+   "short": "State Interests and Governance Authority Act 2019",
+   "title": "State Interests and Governance Authority Act, 2019 (Act 990)",
+   "url": "https://repository.parliament.gh/handle/123456789/2072",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 38,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/01c3de23-91bd-45a8-9325-b778670bf8d5/content",
+     "sha256": "dfd8bdafcf34613160a69bf5c9c17ff31d34e2a69ffb8646f9af77a80bad066d"
+    }
+   ]
+  },
+  {
+   "slug": "act-0993",
+   "short": "National Road Safety Authority Act 2019",
+   "title": "National Road Safety Authority Act, 2019 (Act 993)",
+   "url": "https://repository.parliament.gh/handle/123456789/2006",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 37,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/8a65b782-0ce6-49b7-8c90-bfffdfc0d619/content",
+     "sha256": "74ed8aa1881f6043d63ee3a776889fe871d056563d79a3bbae273004fdaa1c5c"
+    }
+   ]
+  },
+  {
+   "slug": "act-0996",
+   "short": "Luxury Vehicle Levy (Repeal) Act 2019",
+   "title": "Luxury Vehicle Levy (Repeal) Act, 2019 (Act 996)",
+   "url": "https://repository.parliament.gh/handle/123456789/1922",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/e60e4a5a-497e-4c23-bf0e-25de737dc7fd/content",
+     "sha256": "01f07da8cb59240af96766953896288f192c4dc5873fd872589f0943fb27f20b"
+    }
+   ]
+  },
+  {
+   "slug": "act-0998",
+   "short": "Communications Service Tax (Amendment) Act 2019",
+   "title": "Communications Service Tax (Amendment) Act, 2019 (Act 998)",
+   "url": "https://repository.parliament.gh/handle/123456789/1779",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 4,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/0bfa6ba9-7d2d-45d7-97b8-c13fd2615ce2/content",
+     "sha256": "7949e8a84066e824004c496ad961609e1d5e57030e818fb0f14863a6a968269d"
+    }
+   ]
+  },
+  {
+   "slug": "act-0999",
+   "short": "Vigilantism and Related Offences Act 2019",
+   "title": "Vigilantism and Related Offences Act, 2019 (Act 999)",
+   "url": "https://repository.parliament.gh/handle/123456789/2057",
+   "versions": [
+    {
+     "from": "2019-08-23",
+     "units": 13,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/bc989a44-0124-486a-afaf-487e61d6b631/content",
+     "sha256": "20297aeeb6e45c11220a87b1791112cf9d180c753a0a962f1b88286e49c7be19"
+    }
+   ]
+  },
+  {
+   "slug": "act-1000",
+   "short": "C.K. TEDAM UNIVERSITY OF TECHNOLOGY AND APPLIED SCIENCES ACT 2019",
+   "title": "C.K. TEDAM UNIVERSITY OF TECHNOLOGY AND APPLIED SCIENCES ACT, 2019 (Act 1000)",
+   "url": "https://repository.parliament.gh/handle/123456789/1766",
+   "versions": [
+    {
+     "from": "2019-08-23",
+     "units": 43,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/57d2bd64-07a4-4429-a8d6-757c5df2c0e9/content",
+     "sha256": "ca5e0b7222db4aad3c31576d6d0035ffca98cc34359cba6f925c26cee79e7a1d"
+    }
+   ]
+  },
+  {
+   "slug": "act-1002",
+   "short": "Ghana Meteorological Agency (Amendment) Act 2019",
+   "title": "Ghana Meteorological Agency (Amendment) Act, 2019 (Act 1002)",
+   "url": "https://repository.parliament.gh/handle/123456789/1840",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/7e290d50-6529-493f-8eda-b1ab533dedb5/content",
+     "sha256": "0114aaa48afd007ffa4169e9397314f578c97bb007fa1178b722cf3371741ad0"
+    }
+   ]
+  },
+  {
+   "slug": "act-1009",
+   "short": "Ghana Health Service and Teaching Hospitals (Amendment) Act 2019",
+   "title": "Ghana Health Service and Teaching Hospitals (Amendment) Act, 2019 (Act 1009)",
+   "url": "https://repository.parliament.gh/handle/123456789/1846",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 2,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/7b5063ad-20dd-4f43-9a31-f83cb363641c/content",
+     "sha256": "17710800b0285038d4709f5a7115d9bbcaa6983bc068bc8df69eb2c1025e44fb"
+    }
+   ]
+  },
+  {
+   "slug": "act-1006",
+   "short": "Electronic Communications (Amendment) Act 2019",
+   "title": "Electronic Communications (Amendment) Act, 2019 (Act 1006)",
+   "url": "https://repository.parliament.gh/handle/123456789/1812",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 2,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/c725c904-3134-4e4e-8efd-0698b8948136/content",
+     "sha256": "f192abd7cd9464b71fe42847065c4a72aa15c7317674e904a8ac0be7f70a02c2"
+    }
+   ]
+  },
+  {
+   "slug": "act-1010",
+   "short": "Tree Crops Development Authority Act 2019",
+   "title": "Tree Crops Development Authority Act, 2019 (Act 1010)",
+   "url": "https://repository.parliament.gh/handle/123456789/2137",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 28,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/ea2b6f5b-b72a-46df-9db7-7a09d119c3f8/content",
+     "sha256": "dc22f9af978bde16b57b1107015333e47178accc2dbee250590e5c213f4eef11"
+    }
+   ]
+  },
+  {
+   "slug": "act-1012",
+   "short": "Imposition of Restrictions Act 2020",
+   "title": "Imposition of Restrictions Act, 2020 (Act 1012)",
+   "url": "https://repository.parliament.gh/handle/123456789/1862",
+   "versions": [
+    {
+     "from": "2020-03-21",
+     "units": 8,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/a412f02a-339e-4596-9f1e-ca54c014c6d9/content",
+     "sha256": "e7919ae79d04023765be6927b5109a859d2400f024a02d48616250db2c674c4d"
+    }
+   ]
+  },
+  {
+   "slug": "act-1013",
+   "short": "Novel Corona Virus (Covid- 19) National Trust Fund Act 2020",
+   "title": "Novel Corona Virus (Covid- 19) National Trust Fund Act, 2020 (Act 1013)",
+   "url": "https://repository.parliament.gh/handle/123456789/2000",
+   "versions": [
+    {
+     "from": "2020-04-03",
+     "units": 27,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/81f8ea56-35db-4f78-932c-0b3315d3c904/content",
+     "sha256": "261faa78855699bf88e12530f316320f49ae8fa393561d55bf00fad62ff37546"
+    }
+   ]
+  },
+  {
+   "slug": "act-1016",
+   "short": "Technical Universities (Amendment) Act 2020",
+   "title": "Technical Universities (Amendment) Act, 2020 (Act 1016)",
+   "url": "https://repository.parliament.gh/handle/123456789/2103",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 5,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/8e6d9ad7-835a-4d3b-a6da-b798bc32ec4a/content",
+     "sha256": "0a47b82cfeca686fad3ca1f7df352c0531cc588dd2a6342504b757bc566a07b5"
+    }
+   ]
+  },
+  {
+   "slug": "act-1019",
+   "short": "Narcotics Control Commission Act 2020",
+   "title": "Narcotics Control Commission Act, 2020 (Act 1019)",
+   "url": "https://repository.parliament.gh/handle/123456789/1921",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 125,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/2ae84af6-4f3f-49e5-aae1-b340fe350cb8/content",
+     "sha256": "15b0563f6fd122111e048f917519df7972c18c3b6d615a53ffcf285e2811d80b"
+    }
+   ]
+  },
+  {
+   "slug": "act-1020",
+   "short": "Chartered Institute of Human Resource Management, Ghana Act 2020",
+   "title": "Chartered Institute of Human Resource Management, Ghana Act, 2020 (Act 1020)",
+   "url": "https://repository.parliament.gh/handle/123456789/1769",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 48,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/2e4e0d83-090a-4fc2-99d0-37a293519d31/content",
+     "sha256": "b6c532caf723c7742dc81d2fd13c92d316889f329544f3bf5b3d85c9e82c98bb"
+    }
+   ]
+  },
+  {
+   "slug": "act-1021",
+   "short": "Chartered Institute of Marketing, Ghana Act 2020",
+   "title": "Chartered Institute of Marketing, Ghana Act, 2020 (Act 1021)",
+   "url": "https://repository.parliament.gh/handle/123456789/1770",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 58,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/0b2a7d43-c2e2-4dff-899b-7a1d54d19cb3/content",
+     "sha256": "d5dfc9eab226e230aea97533f543f26aad80a461a28dc2f0a14c7a78893a990a"
+    }
+   ]
+  },
+  {
+   "slug": "act-1025",
+   "short": "Communications Service Tax (Amendment) Act 2020",
+   "title": "Communications Service Tax (Amendment) Act, 2020 (Act 1025)",
+   "url": "https://repository.parliament.gh/handle/123456789/1780",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 4,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/d9d164dd-89bc-46f4-852a-87df5238665e/content",
+     "sha256": "8d1d9c552296b16924ad1ff6d70ebf2728255a875f1bdedc4178cfa65799f51e"
+    }
+   ]
+  },
+  {
+   "slug": "act-1026",
+   "short": "Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development Act 2020",
+   "title": "Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development Act, 2020 (Act 1026)",
+   "url": "https://repository.parliament.gh/handle/123456789/1757",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 44,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/35847cd8-f161-4235-9b22-890ab538df0b/content",
+     "sha256": "6ed9eef31af9419afb8f1e9c485a243989662a9341e37429dc6e2e2cab0cd3dd"
+    }
+   ]
+  },
+  {
+   "slug": "act-1027",
+   "short": "Registration of Births and Deaths Act 2020",
+   "title": "Registration of Births and Deaths Act, 2020 (Act 1027)",
+   "url": "https://repository.parliament.gh/handle/123456789/2061",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 51,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/902e1f11-a732-49ce-8f38-349f810519fa/content",
+     "sha256": "382fab79b95093915b350dc5f200a4b940e0e085b77ed5d05f2ab01e16d3178a"
+    }
+   ]
+  },
+  {
+   "slug": "act-1029",
+   "short": "Revenue Administration (Amendment) Act 2020",
+   "title": "Revenue Administration (Amendment) Act, 2020 (Act 1029)",
+   "url": "https://repository.parliament.gh/handle/123456789/2064",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 5,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/96077aee-49b1-4344-bb62-c5c51e38974f/content",
+     "sha256": "cee2b08f82092821d49e62a54d741467e6f83e4a05e892efdf55e9ae3b7e9224"
+    }
+   ]
+  },
+  {
+   "slug": "act-1034",
+   "short": "Criminal Offences (Amendment) Act 2020",
+   "title": "Criminal Offences (Amendment) Act, 2020 (Act 1034)",
+   "url": "https://repository.parliament.gh/handle/123456789/1795",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 11,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/2d74a705-61fc-4adc-bcdc-ac51027636d6/content",
+     "sha256": "150c52ea39e39a0f589d5f2e58e3ccefdb5aeef77162c6d174b0176b740d86af"
+    }
+   ]
+  },
+  {
+   "slug": "act-1036",
+   "short": "Land Act 2020",
+   "title": "Land Act, 2020 (Act 1036)",
+   "url": "https://repository.parliament.gh/handle/123456789/1875",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 303,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/8fdcce40-7c2e-454c-8747-00e23d786227/content",
+     "sha256": "83d1ab2be31e3a3feee73b36bde085d5051b000720963c766824c89d7faef70b"
+    }
+   ]
+  },
+  {
+   "slug": "act-1037",
+   "short": "Council of State Act 2020",
+   "title": "Council of State Act, 2020 (Act 1037)",
+   "url": "https://repository.parliament.gh/handle/123456789/1791",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 23,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/87163fcf-80d3-4395-943a-716274aa706c/content",
+     "sha256": "898829a6b08550017e4c1e6483eef01aa18a4d98313314a325b31df047fba581"
+    }
+   ]
+  },
+  {
+   "slug": "act-1039",
+   "short": "Public Private Partnership Act 2020",
+   "title": "Public Private Partnership Act, 2020 (Act 1039)",
+   "url": "https://repository.parliament.gh/handle/123456789/2039",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 91,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/28aa7087-4e2b-470f-86e8-31f659c7bd63/content",
+     "sha256": "198f7919c402279495a4979740238baaf0a2da88db064abd83c420f43b8b1fe6"
+    }
+   ]
+  },
+  {
+   "slug": "act-1040",
+   "short": "National Signals Bureau Act 2020",
+   "title": "National Signals Bureau Act, 2020 (Act 1040)",
+   "url": "https://repository.parliament.gh/handle/123456789/2004",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 42,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/6fac01a1-28c7-400c-8008-3ff04c92a477/content",
+     "sha256": "d6ca0d67cf6b6072561116c6648147297cd640341f0d6cb24be3b53540f1931c"
+    }
+   ]
+  },
+  {
+   "slug": "act-1041",
+   "short": "National Ambulance Service Act 2020",
+   "title": "National Ambulance Service Act, 2020 (Act 1041)",
+   "url": "https://repository.parliament.gh/handle/123456789/1919",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 41,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/63b1add6-9034-4f61-8702-86a252c87b97/content",
+     "sha256": "b2f7080ae35194495e847b6f597fd7e5c54efd30eb21d977fe0699233c33eab7"
+    }
+   ]
+  },
+  {
+   "slug": "act-1042",
+   "short": "National Blood Service Act 2020",
+   "title": "National Blood Service Act, 2020 (Act 1042)",
+   "url": "https://repository.parliament.gh/handle/123456789/1918",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 37,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/df41289d-3cc7-4f2f-a13e-e70ae1052edb/content",
+     "sha256": "8f5e1547b79cc12043fb8f9d408deefe1092bd2fe1a77a2bc848ad69993fff71"
+    }
+   ]
+  },
+  {
+   "slug": "act-1043",
+   "short": "Ghana Enterprises Agency Act 2020",
+   "title": "Ghana Enterprises Agency Act, 2020 (Act 1043)",
+   "url": "https://repository.parliament.gh/handle/123456789/1845",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 36,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/9211783e-dfac-4237-a673-6520f44116e5/content",
+     "sha256": "940be6083649012ead33e73e52dd992e1c4267d22eeef2dfe9b293b8b78e2842"
+    }
+   ]
+  },
+  {
+   "slug": "act-1047",
+   "short": "Real Estate Agency Act 2020",
+   "title": "Real Estate Agency Act, 2020 (Act 1047)",
+   "url": "https://repository.parliament.gh/handle/123456789/2060",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 61,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/2498af55-20a7-4fcd-82cb-b600508262c7/content",
+     "sha256": "3d831414704979590dbbec3b2d0fbf18bb6d738aced4f1390647010e27bfbde1"
+    }
+   ]
+  },
+  {
+   "slug": "act-1048",
+   "short": "Creative Arts Industry Act 2020",
+   "title": "Creative Arts Industry Act, 2020 (Act 1048)",
+   "url": "https://repository.parliament.gh/handle/123456789/1793",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 34,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/e9c4cf54-ccc7-4e13-bf99-497111abccfe/content",
+     "sha256": "0dcaeea7a0139710d039389019e29ba1ff26c5db8bde2b3dc84345ff10f330ee"
+    }
+   ]
+  },
+  {
+   "slug": "act-1053",
+   "short": "Petroleum Hub Development Corporation Act 2020",
+   "title": "Petroleum Hub Development Corporation Act, 2020 (Act 1053)",
+   "url": "https://repository.parliament.gh/handle/123456789/1907",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 29,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/acba4c15-3671-4639-b44f-7096f0a4b935/content",
+     "sha256": "1cb9d4a023d459db38d718243d839528f25374429f8d7800e9ace53655328441"
+    }
+   ]
+  },
+  {
+   "slug": "act-1064",
+   "short": "Energy Sector Levies (Amendment) Act 2021",
+   "title": "Energy Sector Levies (Amendment) Act, 2021 (Act 1064)",
+   "url": "https://repository.parliament.gh/handle/123456789/1818",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 5,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/45070324-12fd-4724-b7ee-9956b55cea09/content",
+     "sha256": "83b69c26841e126ebd2fbece67070b0eb5a2aa28beac5709bd500073d6d86a38"
+    }
+   ]
+  },
+  {
+   "slug": "act-1067",
+   "short": "Financial Sector Recovery Levy Act 2021",
+   "title": "Financial Sector Recovery Levy Act, 2021 (Act 1067)",
+   "url": "https://repository.parliament.gh/handle/123456789/1829",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 13,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/f8bfc57c-d7a6-45fc-9759-0319c946ab83/content",
+     "sha256": "7bba49292153583b3890b1899a9d892282faac7a2dd37644fe40f1edb7506773"
+    }
+   ]
+  },
+  {
+   "slug": "act-0746",
+   "short": "The restriction on use of military uniforms and equipment (Amendment) Act 2008",
+   "title": "The restriction on use of military uniforms and equipment (Amendment) Act, 2008 (Act 746)",
+   "url": "https://repository.parliament.gh/handle/123456789/2107",
+   "versions": [
+    {
+     "from": "2008-01-04",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/cffdb457-07a2-4e3c-b29d-06c46e2759cc/content",
+     "sha256": "09ccc8690025d471edffeedd70d63f506e1902579ffbed3d14b12cee3b318702"
+    }
+   ]
+  },
+  {
+   "slug": "act-0759",
+   "short": "Chieftaincy Act 2008",
+   "title": "Chieftaincy Act, 2008 (Act 759)",
+   "url": "https://repository.parliament.gh/handle/123456789/1771",
+   "versions": [
+    {
+     "from": "2008-06-16",
+     "units": 78,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/57b681f9-111f-4d41-a59f-a0765f40b69d/content",
+     "sha256": "4b1db18d9fbad2f02fe792340e64af6a60e0a0a03e7ee84022d1e7ab0d91c6fb"
+    }
+   ]
+  },
+  {
+   "slug": "act-0760",
+   "short": "Financial Administration (Amendment) Act 2008",
+   "title": "Financial Administration (Amendment) Act, 2008 (Act 760)",
+   "url": "https://repository.parliament.gh/handle/123456789/1828",
+   "versions": [
+    {
+     "from": "2008-07-02",
+     "units": 8,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/19928c64-8b89-4306-978b-03035f93e0d0/content",
+     "sha256": "dbe1fad11bcea7a485a272bcb0e4bc84ab8146617e26142161354339f3fa88bc"
+    }
+   ]
+  },
+  {
+   "slug": "act-0761",
+   "short": "Road Traffic (Amendment) Act 2008",
+   "title": "Road Traffic (Amendment) Act, 2008 (Act 761)",
+   "url": "https://repository.parliament.gh/handle/123456789/2069",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/8f02438c-8fbf-488d-bdde-dbdbbb20c395/content",
+     "sha256": "2c240209e6fd97846d017209add7af83ccb3fd36cdedeed3528d26951f71c84a"
+    }
+   ]
+  },
+  {
+   "slug": "act-0766",
+   "short": "National Pensions Act 2008",
+   "title": "National Pensions Act, 2008 (Act 766)",
+   "url": "https://repository.parliament.gh/handle/123456789/1927",
+   "versions": [
+    {
+     "from": "2008-12-04",
+     "units": 224,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/216d5fba-5a4c-4114-bd24-82bac2202d81/content",
+     "sha256": "b6d33af177a4b1b2f91a8346fc3bc88c6e990e22fcca93a94e745dcc85830e86"
+    }
+   ]
+  },
+  {
+   "slug": "act-0767",
+   "short": "Lands Commission Act 2008",
+   "title": "Lands Commission Act, 2008 (Act 767)",
+   "url": "https://repository.parliament.gh/handle/123456789/1888",
+   "versions": [
+    {
+     "from": "2008-12-04",
+     "units": 46,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/fc55b519-1e2c-4507-8294-15ec55728a2f/content",
+     "sha256": "45aef8529045099e8a7899e3116cb94acf02678761e5218485f697617e601622"
+    }
+   ]
+  },
+  {
+   "slug": "act-0908",
+   "short": "Immigration Service Act 2016",
+   "title": "Immigration Service Act, 2016 (Act 908)",
+   "url": "https://repository.parliament.gh/handle/123456789/1861",
+   "versions": [
+    {
+     "from": "2016-03-08",
+     "units": 36,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/ca097fe3-4805-472b-96c8-83bbbb6556ce/content",
+     "sha256": "c01840704cc617b295ae5b38526df81388bfa35a32c420940c3dafb89b3397a5"
+    }
+   ]
+  },
+  {
+   "slug": "act-0919",
+   "short": "Petroleum (Exploration and Production) Act 2016",
+   "title": "Petroleum (Exploration and Production) Act, 2016 (Act 919)",
+   "url": "https://repository.parliament.gh/handle/123456789/1908",
+   "versions": [
+    {
+     "from": "2016-08-19",
+     "units": 98,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/a5993b1e-264b-4260-99ea-b7fca25343ab/content",
+     "sha256": "cb2df4231d755013ee9ed6e2a82bafea6a2494a06a2497916d4a7be05b50a8a3"
+    }
+   ]
+  },
+  {
+   "slug": "act-0943",
+   "short": "Customs and Excise (Petroleum Taxes and Petroleum Related Levies) (Repeal) Act 2017",
+   "title": "Customs and Excise (Petroleum Taxes and Petroleum Related Levies) (Repeal) Act, 2017 (Act 943)",
+   "url": "https://repository.parliament.gh/handle/123456789/1798",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/a8fc24ec-9691-4d98-ab04-a5d3e3f55782/content",
+     "sha256": "7127c36b64ecb23eedbe7ba9e5dc845c19800b46a6adb5812cc93074bbd9dfda"
+    }
+   ]
+  },
+  {
+   "slug": "act-0946",
+   "short": "Energy Sector Levies (Amendment) Act 2017",
+   "title": "Energy Sector Levies (Amendment) Act, 2017 (Act 946)",
+   "url": "https://repository.parliament.gh/handle/123456789/1816",
+   "versions": [
+    {
+     "from": "2017-04-05",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/dc8761ff-e540-4b07-ae35-6cc3b1276ca6/content",
+     "sha256": "c1a208da18328322d45d7a119903a4f5223dff42893dab7361f1d5048babc667"
+    }
+   ]
+  },
+  {
+   "slug": "act-0947",
+   "short": "Earmarked Funds Capping and Realignment Act 2017",
+   "title": "Earmarked Funds Capping and Realignment Act, 2017 (Act 947)",
+   "url": "https://repository.parliament.gh/handle/123456789/1808",
+   "versions": [
+    {
+     "from": "2017-04-05",
+     "units": 11,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/50d6c66a-ebf0-485b-9edf-2477782a9c24/content",
+     "sha256": "04ddf2be2b76aa4092eb577c6a075025aea9d960577eff36ea334ffe91836759"
+    }
+   ]
+  },
+  {
+   "slug": "act-0952",
+   "short": "African Union Import Levy Act 2017",
+   "title": "African Union Import Levy Act, 2017 (Act 952)",
+   "url": "https://repository.parliament.gh/handle/123456789/1755",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 9,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/6a29a10e-1422-4ab1-835f-a9329cc2826c/content",
+     "sha256": "e80f08fb9c2197ec403b904b93e521cf2d7258c5846a0f11e7ebd978c7db6360"
+    }
+   ]
+  },
+  {
+   "slug": "act-0955",
+   "short": "Tax Amnesty Act 2017",
+   "title": "Tax Amnesty Act, 2017 (Act 955)",
+   "url": "https://repository.parliament.gh/handle/123456789/2099",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 9,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/e2968d7f-dc7e-4adc-bc82-34812295ca74/content",
+     "sha256": "1696aeededa74ae449711cc9ac9b4dd1c84a325b9d13485438a09e6494325dc2"
+    }
+   ]
+  },
+  {
+   "slug": "act-0957",
+   "short": "Customs (Amendment) (No.2) Act 2017",
+   "title": "Customs (Amendment) (No.2) Act, 2017 (Act 957)",
+   "url": "https://repository.parliament.gh/handle/123456789/1797",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 4,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/b2ee3198-0123-40df-b868-35176e51fdb4/content",
+     "sha256": "ddc6993f0abda89d43b441c9d1435d77bda83919950abc7e6305961979aef914"
+    }
+   ]
+  },
+  {
+   "slug": "act-0958",
+   "short": "National Fiscal Stability Levy (Amendment) Act 2017",
+   "title": "National Fiscal Stability Levy (Amendment) Act, 2017 (Act 958)",
+   "url": "https://repository.parliament.gh/handle/123456789/1942",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/7ad5e9e6-b711-4a59-b754-702734b46d10/content",
+     "sha256": "abecbd910928a39a6ad44ea809735c9e37fec80d409bc284af92ccd05728532c"
+    }
+   ]
+  },
+  {
+   "slug": "act-0978",
+   "short": "Minerals Income Investment Fund Act 2018",
+   "title": "Minerals Income Investment Fund Act, 2018 (Act 978)",
+   "url": "https://repository.parliament.gh/handle/123456789/1897",
+   "versions": [
+    {
+     "from": "2018-12-03",
+     "units": 46,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/60669e0c-9b09-4d8e-b22e-81532289e6c7/content",
+     "sha256": "1e74628987a2f44e6109fe7ff640caad1d866dac299db5996800d8e3f15751da"
+    }
+   ]
+  },
+  {
+   "slug": "act-0981",
+   "short": "Excise Tax Stamp (Amendment) Act 2018",
+   "title": "Excise Tax Stamp (Amendment) Act, 2018 (Act 981)",
+   "url": "https://repository.parliament.gh/handle/123456789/1821",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/5d708bab-ffb0-4889-b858-21d1ab4efe79/content",
+     "sha256": "7e7d7cf582a89d4a4b845b47ffe9a1f2f5cb9a9eef05575c942ee7eee0a97dec"
+    }
+   ]
+  },
+  {
+   "slug": "act-0982",
+   "short": "Fiscal Responsibility Act 2018",
+   "title": "Fiscal Responsibility Act, 2018 (Act 982)",
+   "url": "https://repository.parliament.gh/handle/123456789/1831",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 9,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/3d66aa8b-5e24-4292-823e-e3f5f5ce518d/content",
+     "sha256": "739be3111180c04030336d2da7df748c00e2d843967d8d2ac44118ee86d36392"
+    }
+   ]
+  },
+  {
+   "slug": "act-0537",
+   "short": "The Ghana National Fire Service Act 1997",
+   "title": "The Ghana National Fire Service Act, 1997 (Act 537)",
+   "url": "https://repository.parliament.gh/handle/123456789/2105",
+   "versions": [
+    {
+     "from": "1997-08-29",
+     "units": 35,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/8fa5f695-0508-4306-b7fe-3c6be63f60a6/content",
+     "sha256": "63d72af2e4de8e5a0371e1c23162acbe4e0ce14ebb8bb0caf78c013313ced9c6"
+    }
+   ]
+  },
+  {
+   "slug": "act-0540",
+   "short": "Ghana Highway Authority Act 1997",
+   "title": "Ghana Highway Authority Act, 1997 (Act 540)",
+   "url": "https://repository.parliament.gh/handle/123456789/1848",
+   "versions": [
+    {
+     "from": "1997-12-31",
+     "units": 45,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/50cac925-c7ef-4780-b2aa-d5151c339b44/content",
+     "sha256": "86c6c2b09f94c212ee3918c54161b81b0b6fd0be81b9d7d551fc0bbf749784bf"
+    }
+   ]
+  },
+  {
+   "slug": "act-0549",
+   "short": "Powers of Attorney Act 1998",
+   "title": "Powers of Attorney Act, 1998 (Act 549)",
+   "url": "https://repository.parliament.gh/handle/123456789/1938",
+   "versions": [
+    {
+     "from": "1998-04-27",
+     "units": 9,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/ac51619f-8a12-4b46-bdc3-e3e5ea3ed059/content",
+     "sha256": "3298b28b019858b3bb4bbda70f720e35f7ad6ac03f0782ff960a929e24da3e3b"
+    }
+   ]
+  },
+  {
+   "slug": "act-0572",
+   "short": "Fines(Penalty Units)Act 2000",
+   "title": "Fines(Penalty Units)Act, 2000 (Act 572)",
+   "url": "https://repository.parliament.gh/handle/123456789/1830",
+   "versions": [
+    {
+     "from": "2000-02-02",
+     "units": 8,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/b3d5c4c7-c2b7-4ed2-8f27-d477193897d0/content",
+     "sha256": "04ee85d3e2a538dce0cf636db2225e9121a5b29d6060425a05f91d75e4111b7b"
+    }
+   ]
+  },
+  {
+   "slug": "act-0573",
+   "short": "Immigration Act 2000",
+   "title": "Immigration Act, 2000 (Act 573)",
+   "url": "https://repository.parliament.gh/handle/123456789/1860",
+   "versions": [
+    {
+     "from": "2000-02-02",
+     "units": 58,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/65703ca0-e98b-429c-9636-ea8a2602d7c8/content",
+     "sha256": "d6085dcc6e11d545a6ab57cb2d7b2bc63aed789eb90d14f09b06cea266049c0b"
+    }
+   ]
+  },
+  {
+   "slug": "act-0582",
+   "short": "Export Development and Investment Fund Act 2000",
+   "title": "Export Development and Investment Fund Act, 2000 (Act 582)",
+   "url": "https://repository.parliament.gh/handle/123456789/1823",
+   "versions": [
+    {
+     "from": "2000-10-04",
+     "units": 30,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/f1867ea0-9d3b-4eef-8746-3d385754d5cf/content",
+     "sha256": "8a6da5d4be7fb6ab0ceadf507df591492928d1231b3c43e96b95b065f5f6d9b1"
+    }
+   ]
+  },
+  {
+   "slug": "act-0588",
+   "short": "Atomic Energy Commission Act 2000",
+   "title": "Atomic Energy Commission Act, 2000 (Act 588)",
+   "url": "https://repository.parliament.gh/handle/123456789/1759",
+   "versions": [
+    {
+     "from": "2000-11-27",
+     "units": 18,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/f32d3365-74b3-487e-8a36-f1d452982223/content",
+     "sha256": "3b0f4801da929f5be0781add697519fe1fabf176ee7769bef43b5ff98d6ddf58"
+    }
+   ]
+  },
+  {
+   "slug": "act-0589",
+   "short": "Protection against Unfair Competition Act 2000",
+   "title": "Protection against Unfair Competition Act, 2000 (Act 589)",
+   "url": "https://repository.parliament.gh/handle/123456789/1935",
+   "versions": [
+    {
+     "from": "2000-12-19",
+     "units": 11,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/9366072e-0b2a-4a75-a3ea-2747973f4a87/content",
+     "sha256": "7d8b7fe9541a45ed08344c0a90dffb6c6f81757fdde2ac08bc358071b3417d4b"
+    }
+   ]
+  },
+  {
+   "slug": "act-0591",
+   "short": "Citizen Act 2000",
+   "title": "Citizen Act, 2000 (Act 591)",
+   "url": "https://repository.parliament.gh/handle/123456789/1773",
+   "versions": [
+    {
+     "from": "2000-12-29",
+     "units": 26,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/635edeab-ab22-41cb-af90-40f2b8c205aa/content",
+     "sha256": "a96e30b5beda08c298bda9f9beedded15dcb4a7cbfdf029b1ba3153a346573c4"
+    }
+   ]
+  },
+  {
+   "slug": "act-0611",
+   "short": "National Reconciliation Commission Act 2002",
+   "title": "National Reconciliation Commission Act, 2002 (Act 611)",
+   "url": "https://repository.parliament.gh/handle/123456789/1924",
+   "versions": [
+    {
+     "from": "2002-01-09",
+     "units": 28,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/33665d63-7312-4ae1-b19f-31435364561a/content",
+     "sha256": "22f7e586c2266c209cbfe8e34f03efdb9f29b8bf510b8115f3aa3c2d3024e5cb"
+    }
+   ]
+  },
+  {
+   "slug": "act-0625",
+   "short": "Fisheries Act 2002",
+   "title": "Fisheries Act, 2002 (Act 625)",
+   "url": "https://repository.parliament.gh/handle/123456789/1832",
+   "versions": [
+    {
+     "from": "2002-01-16",
+     "units": 143,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/ec121cc6-bb6a-4e90-a1a2-e7ec00f90358/content",
+     "sha256": "96ae5c0bcc454b57f20b6208f6ddf3756533e6601ea0d2f68ff814bf6db64feb"
+    }
+   ]
+  },
+  {
+   "slug": "act-0612",
+   "short": "Bank of Ghana Act 2002",
+   "title": "Bank of Ghana Act, 2002 (Act 612)",
+   "url": "https://repository.parliament.gh/handle/123456789/1761",
+   "versions": [
+    {
+     "from": "2002-01-24",
+     "units": 72,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/a02b11f5-d5b1-4d1b-8ac3-7f2e6ae69eda/content",
+     "sha256": "4916521834221a30426742f7c79ec06207a1522a15329a32f6d23ce5629f5e53"
+    }
+   ]
+  },
+  {
+   "slug": "act-0616",
+   "short": "Ghana Investment Fund Act 2002",
+   "title": "Ghana Investment Fund Act, 2002 (Act 616)",
+   "url": "https://repository.parliament.gh/handle/123456789/1851",
+   "versions": [
+    {
+     "from": "2002-04-08",
+     "units": 26,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/feeda186-4993-42ca-9047-9e7344e13c0d/content",
+     "sha256": "89a7b4e0f4822bfac682aa43cb1da537f4a2bfd478f8b56d47141179acb1c849"
+    }
+   ]
+  },
+  {
+   "slug": "act-0630",
+   "short": "Ghana Maritime Authority Act 2002",
+   "title": "Ghana Maritime Authority Act, 2002 (Act 630)",
+   "url": "https://repository.parliament.gh/handle/123456789/1853",
+   "versions": [
+    {
+     "from": "2002-07-25",
+     "units": 28,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/f8fb3c6a-ae71-41e0-bab3-65f62ebf4d4c/content",
+     "sha256": "cf7beb684dc7baed9d659143c88a93ec5653f55a4d6082201a052ba1b2f7ac94"
+    }
+   ]
+  },
+  {
+   "slug": "act-0647",
+   "short": "Institute of Local Government Studies Act 2003",
+   "title": "Institute of Local Government Studies Act, 2003 (Act 647)",
+   "url": "https://repository.parliament.gh/handle/123456789/1872",
+   "versions": [
+    {
+     "from": "2003-07-03",
+     "units": 22,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/e66f1eb0-b6c3-4191-bd31-b2207e56d973/content",
+     "sha256": "fbe723d0e73d8d286ac76fc5a4c35b93f6ab2719196d6be23298da70871caf19"
+    }
+   ]
+  },
+  {
+   "slug": "act-0649",
+   "short": "Postal and Courier Services Regulatory Commission Act 2003",
+   "title": "Postal and Courier Services Regulatory Commission Act, 2003 (Act 649)",
+   "url": "https://repository.parliament.gh/handle/123456789/1940",
+   "versions": [
+    {
+     "from": "2003-08-10",
+     "units": 59,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/d6950a74-616d-4daa-886e-5123e636515c/content",
+     "sha256": "fdbd86e77d06a2720ed6b3872e71247977d336844eecaef86a3415c985d993fe"
+    }
+   ]
+  },
+  {
+   "slug": "act-0652",
+   "short": "Kimberley Process Certificate Act 2003",
+   "title": "Kimberley Process Certificate Act, 2003 (Act 652)",
+   "url": "https://repository.parliament.gh/handle/123456789/1890",
+   "versions": [
+    {
+     "from": "2003-10-24",
+     "units": 12,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/cb39515e-d996-4efe-893b-40ef7057da1c/content",
+     "sha256": "f60b1601c50709361cba25ecdedcf7a8e9f2e2b4f68eca8b8c5f703f74223855"
+    }
+   ]
+  },
+  {
+   "slug": "act-0653",
+   "short": "Juvenile Justice Act 2003",
+   "title": "Juvenile Justice Act, 2003 (Act 653)",
+   "url": "https://repository.parliament.gh/handle/123456789/1891",
+   "versions": [
+    {
+     "from": "2003-10-28",
+     "units": 63,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/c8ba146c-b133-45ae-b556-e8ff58b90d43/content",
+     "sha256": "2d4820c79e942ddb4ac6a2220472fb8d19d0ccfe0b86aad0ec25ea58c5383303"
+    }
+   ]
+  },
+  {
+   "slug": "act-0657",
+   "short": "Patents Act 2003",
+   "title": "Patents Act, 2003 (Act 657)",
+   "url": "https://repository.parliament.gh/handle/123456789/1914",
+   "versions": [
+    {
+     "from": "2003-12-31",
+     "units": 43,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/b780fb1b-28a6-4cf5-8d47-9839f21962ab/content",
+     "sha256": "87e9eea79637e7fd1411ee1d430d748f4075b5dbcc1ec7c46e0c115493ffb8e8"
+    }
+   ]
+  },
+  {
+   "slug": "act-0659",
+   "short": "Geographical Indications Act 2003",
+   "title": "Geographical Indications Act, 2003 (Act 659)",
+   "url": "https://repository.parliament.gh/handle/123456789/1839",
+   "versions": [
+    {
+     "from": "2003-12-31",
+     "units": 23,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/32af7b2f-253a-432d-8008-54e30078e725/content",
+     "sha256": "8ebe52ccc7bf97a77f020bd3d7cdd8a384134f867c3e507cd9fe1059c3417eab"
+    }
+   ]
+  },
+  {
+   "slug": "act-0664",
+   "short": "Trade Marks Act 2004",
+   "title": "Trade Marks Act, 2004 (Act 664)",
+   "url": "https://repository.parliament.gh/handle/123456789/2140",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 56,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/2bf2cde1-757e-427c-b7ca-782c4f180b29/content",
+     "sha256": "c716760acd042b52eb11571ad75b282183059563c6f25ec2e0805b7badc330c5"
+    }
+   ]
+  },
+  {
+   "slug": "act-0675",
+   "short": "Ghana Maritime Security Act 2004",
+   "title": "Ghana Maritime Security Act, 2004 (Act 675)",
+   "url": "https://repository.parliament.gh/handle/123456789/1841",
+   "versions": [
+    {
+     "from": "2004-11-01",
+     "units": 83,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/72179781-652b-4b63-9dad-954fe76d5af1/content",
+     "sha256": "02eaf6e1cc46f4a8e4fc442ae3d0864c2247f7ed2f3c64594a986353541bdfc7"
+    }
+   ]
+  },
+  {
+   "slug": "act-0676",
+   "short": "Ghana Institute of Management and Public Administration Act 2004",
+   "title": "Ghana Institute of Management and Public Administration Act, 2004 (Act 676)",
+   "url": "https://repository.parliament.gh/handle/123456789/1849",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 41,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/fe61043a-fbfb-4db5-91fb-ec44c7fe9059/content",
+     "sha256": "decb675cce3c0b183a6c355638e783725ac8ba4c10aa8af190d52ef999c32983"
+    }
+   ]
+  },
+  {
+   "slug": "act-0690",
+   "short": "Copyright Act 2005",
+   "title": "Copyright Act, 2005 (Act 690)",
+   "url": "https://repository.parliament.gh/handle/123456789/1785",
+   "versions": [
+    {
+     "from": "2005-05-17",
+     "units": 79,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/4b7ed217-30e6-49bd-80ad-21e081c357cc/content",
+     "sha256": "1a5af8cb5ea248b7ceba539ef3ffdb67353eab34700d2ed37df20c0d4804a1c4"
+    }
+   ]
+  },
+  {
+   "slug": "act-0691",
+   "short": "National Petroleum Authority Act 2005",
+   "title": "National Petroleum Authority Act, 2005 (Act 691)",
+   "url": "https://repository.parliament.gh/handle/123456789/1926",
+   "versions": [
+    {
+     "from": "2005-06-14",
+     "units": 86,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/6f1ac569-f3df-4893-b3af-5fa01fd15562/content",
+     "sha256": "3635bab8a55c75b262996966af909c0907db32a82ed937d0e34ff022f5d4a2de"
+    }
+   ]
+  },
+  {
+   "slug": "act-0694",
+   "short": "Human Trafficking Act 2005",
+   "title": "Human Trafficking Act, 2005 (Act 694)",
+   "url": "https://repository.parliament.gh/handle/123456789/1859",
+   "versions": [
+    {
+     "from": "2005-12-05",
+     "units": 43,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/db4580fe-fc96-43ee-86bd-03d7fd66d3c2/content",
+     "sha256": "493b8f24dda665e9e21ade55a6b254bf0c0d94e49e50f6ecd78f06393ec1e5e6"
+    }
+   ]
+  },
+  {
+   "slug": "act-0706",
+   "short": "Subvented Agencies Act 2006",
+   "title": "Subvented Agencies Act, 2006 (Act 706)",
+   "url": "https://repository.parliament.gh/handle/123456789/2082",
+   "versions": [
+    {
+     "from": "2006-04-06",
+     "units": 20,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/c5ac0613-196b-4e0e-8c37-00e7e7302fe5/content",
+     "sha256": "737e65042726f21a38db14a99d9be8ebdb5892c8192b22d6acbf7573855e7180"
+    }
+   ]
+  },
+  {
+   "slug": "act-0716",
+   "short": "Auction Sales Act 2006",
+   "title": "Auction Sales Act, 2006 (Act 716)",
+   "url": "https://repository.parliament.gh/handle/123456789/1760",
+   "versions": [
+    {
+     "from": "2006-08-14",
+     "units": 4,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/bd341920-75e3-40c5-b19b-fe1c6ae63198/content",
+     "sha256": "3a54139d922864bd6ba7ecc635fe1eb8c764bc9970ba83ad6f3177232279e059"
+    }
+   ]
+  },
+  {
+   "slug": "act-0717",
+   "short": "Institute of Journalism Act 2006",
+   "title": "Institute of Journalism Act, 2006 (Act 717)",
+   "url": "https://repository.parliament.gh/handle/123456789/1871",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 37,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/9711665d-4fc4-4cef-9f15-dbb2c273a375/content",
+     "sha256": "4cd3e55db58680166f30eb60b0d0f0f3d81f4c9438ad0d1e80e42e87d88615ee"
+    }
+   ]
+  },
+  {
+   "slug": "act-0718",
+   "short": "Council for Technical and Vocational Education and Training Act 2006",
+   "title": "Council for Technical and Vocational Education and Training Act, 2006 (Act 718)",
+   "url": "https://repository.parliament.gh/handle/123456789/1790",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 26,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/c881691e-7e17-46b6-91e3-5d4092b2ade0/content",
+     "sha256": "fef223b3c248c5ef3761a870a2266a99af1a08b9bfef7a981760fb5de84afb08"
+    }
+   ]
+  },
+  {
+   "slug": "act-0719",
+   "short": "The West African Examination Council Act 2006",
+   "title": "The West African Examination Council Act, 2006 (Act 719)",
+   "url": "https://repository.parliament.gh/handle/123456789/2110",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 18,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/2c6640df-0321-42b3-9fb4-69d6def89fd7/content",
+     "sha256": "41912a27ba22c1ed942ac269427244aff7b2add4219ae226f64ca9100cd9bb2a"
+    }
+   ]
+  },
+  {
+   "slug": "act-0720",
+   "short": "Whistleblower Act, Act 2006",
+   "title": "Whistleblower Act, Act, 2006 (Act 720)",
+   "url": "https://repository.parliament.gh/handle/123456789/2054",
+   "versions": [
+    {
+     "from": "2006-10-16",
+     "units": 33,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/c714237a-5eff-4edb-a53f-9a951b32056b/content",
+     "sha256": "8c67ab4c7aa020d9ea56273a15cea3d72fdd6f79f85220f5c771635806bea5a2"
+    }
+   ]
+  },
+  {
+   "slug": "act-0721",
+   "short": "Gaming Act 2006",
+   "title": "Gaming Act, 2006 (Act 721)",
+   "url": "https://repository.parliament.gh/handle/123456789/1838",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 77,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/cd784a04-7931-4684-8806-5c02870c50de/content",
+     "sha256": "70282e409e26b3757e2984790ba382ccde048f002dcc0a593a087e308a06024e"
+    }
+   ]
+  },
+  {
+   "slug": "act-0724",
+   "short": "Insurance Act 2006",
+   "title": "Insurance Act, 2006 (Act 724)",
+   "url": "https://repository.parliament.gh/handle/123456789/1873",
+   "versions": [
+    {
+     "from": "2006-12-29",
+     "units": 217,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/3cbe2739-0ac3-46b4-9775-d18ce9946def/content",
+     "sha256": "6c5bbbb8d8b76c3948984a98a61a85e30eb2012e4a7e9e73aaeaec49438284b4"
+    }
+   ]
+  },
+  {
+   "slug": "act-0725",
+   "short": "Appropriation Act 2006",
+   "title": "Appropriation Act, 2006 (Act 725)",
+   "url": "https://repository.parliament.gh/handle/123456789/2045",
+   "versions": [
+    {
+     "from": "2006-12-29",
+     "units": 10,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/afa73112-a7e4-4e93-9167-00b26b65ced0/content",
+     "sha256": "5b9032c22b2f6b9009fefa523cb723b6938fee5e358065b0115274f4c54c8b66"
+    }
+   ]
+  },
+  {
+   "slug": "act-0728",
+   "short": "National Reconstruction Levy (Repeal) Act 2007",
+   "title": "National Reconstruction Levy (Repeal) Act, 2007 (Act 728)",
+   "url": "https://repository.parliament.gh/handle/123456789/2007",
+   "versions": [
+    {
+     "from": "2007-04-05",
+     "units": 3,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/75832997-0635-4852-9ce6-a2de98003baf/content",
+     "sha256": "da190cda4b9338fcb5c586d35112d2577f104c7179739cadb23cbc7c7dbc2542"
+    }
+   ]
+  },
+  {
+   "slug": "act-0733",
+   "short": "Central Securities Depository Act 2007",
+   "title": "Central Securities Depository Act, 2007 (Act 733)",
+   "url": "https://repository.parliament.gh/handle/123456789/1767",
+   "versions": [
+    {
+     "from": "2007-05-16",
+     "units": 63,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/946fba99-55b4-46aa-bf29-9697356de300/content",
+     "sha256": "94b017a089dd7e186b2bff1cb7df1a5e9efd4ebf16c563b9d7d93e85fdc75426"
+    }
+   ]
+  },
+  {
+   "slug": "act-0735",
+   "short": "Ministries, Departments and Agencies (Retention of Funds) Act 2007",
+   "title": "Ministries, Departments and Agencies (Retention of Funds) Act, 2007 (Act 735)",
+   "url": "https://repository.parliament.gh/handle/123456789/1923",
+   "versions": [
+    {
+     "from": "2007-05-18",
+     "units": 11,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/a53a3383-e927-4859-9089-bc0925a00056/content",
+     "sha256": "fd0664b33f60a8e50414fe2560eb0bd089be6424df6d207765f2e6424633c996"
+    }
+   ]
+  },
+  {
+   "slug": "act-0737",
+   "short": "Fair Wages and Salaries Commission Act 2007",
+   "title": "Fair Wages and Salaries Commission Act, 2007 (Act 737)",
+   "url": "https://repository.parliament.gh/handle/123456789/1825",
+   "versions": [
+    {
+     "from": "2007-06-04",
+     "units": 33,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/be3550b2-48b1-4992-b865-303a48885400/content",
+     "sha256": "f6f386ea5c8b82a441c00aa763a2b4951d348759374b0e5ed6837c263e9f29f8"
+    }
+   ]
+  },
+  {
+   "slug": "act-0743",
+   "short": "Transfer of Convicted Persons Act 2007",
+   "title": "Transfer of Convicted Persons Act, 2007 (Act 743)",
+   "url": "https://repository.parliament.gh/handle/123456789/2138",
+   "versions": [
+    {
+     "from": "2007-08-20",
+     "units": 20,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/d23fc616-4853-469c-82cc-e5294991c5b2/content",
+     "sha256": "b667e86c547a0367435e63059f702c2e001bed440a255b0f79b574c188a702f2"
+    }
+   ]
+  },
+  {
+   "slug": "act-0769",
+   "short": "National Communications Authority Act 2008",
+   "title": "National Communications Authority Act, 2008 (Act 769)",
+   "url": "https://repository.parliament.gh/handle/123456789/1901",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 34,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/d9328669-ffff-479b-9332-286468155860/content",
+     "sha256": "e36d6503f88514a73e657b71af6ed0a12a2efe262e11306e77522b63c5b26a50"
+    }
+   ]
+  },
+  {
+   "slug": "act-0771",
+   "short": "National Information Technology Agency Act 2008",
+   "title": "National Information Technology Agency Act, 2008 (Act 771)",
+   "url": "https://repository.parliament.gh/handle/123456789/1931",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 31,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/9dfd1b5f-c422-4624-930f-ed33676a8ec0/content",
+     "sha256": "616ef2cd63f8a4fa4bb77507cda4f78adb996b3f81d82a7ed037fa83660d45c4"
+    }
+   ]
+  },
+  {
+   "slug": "act-0774",
+   "short": "Non - Bank Financial Institution Act 2008",
+   "title": "Non - Bank Financial Institution Act, 2008 (Act 774)",
+   "url": "https://repository.parliament.gh/handle/123456789/2003",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 52,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/91c3dd96-6991-44a7-944a-dd27e8e7c6e1/content",
+     "sha256": "f275da22104b7e94771f0fc3d36f56964f3670008f1f3871404b46840a6a923e"
+    }
+   ]
+  },
+  {
+   "slug": "act-0002",
+   "short": "Land Development (Protection of Purchases) Act 1960",
+   "title": "Land Development (Protection of Purchases) Act, 1960 (Act 2)",
+   "url": "https://repository.parliament.gh/handle/123456789/1877",
+   "versions": [
+    {
+     "from": "1960-08-09",
+     "units": 5,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/61fa82b2-c330-4ff3-a428-75faeb4071eb/content",
+     "sha256": "a141c0156acc33202089543434f765b5d6a52dd3395f378214cf44352cecb989"
+    }
+   ]
+  },
+  {
+   "slug": "act-0011",
+   "short": "International Development Association Act 1960",
+   "title": "International Development Association Act, 1960 (Act 11)",
+   "url": "https://repository.parliament.gh/handle/123456789/1894",
+   "versions": [
+    {
+     "from": "1960-12-08",
+     "units": 5,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/edcc10bd-d400-42e5-b3a7-eb89a8b990d4/content",
+     "sha256": "5e433dbb03b8eb834ab1c2384c3d77fdb7a7e74823f286c7708f9d66a52da7f9"
+    }
+   ]
+  },
+  {
+   "slug": "act-0026",
+   "short": "Notaries Public Act 1960",
+   "title": "Notaries Public Act, 1960 (Act 26)",
+   "url": "https://repository.parliament.gh/handle/123456789/2001",
+   "versions": [
+    {
+     "from": "1960-12-22",
+     "units": 14,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/7b031a95-21e1-4b70-a91c-256be0ef5083/content",
+     "sha256": "504c4dc154040be88c98b76ba63f80c1382489b3f51f2393a9d1904a9bdfeffe"
+    }
+   ]
+  },
+  {
+   "slug": "act-0075",
+   "short": "Foreign Enlistment Act 1961",
+   "title": "Foreign Enlistment Act, 1961 (Act 75)",
+   "url": "https://repository.parliament.gh/handle/123456789/1833",
+   "versions": [
+    {
+     "from": "1961-08-17",
+     "units": 10,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/28516f74-895e-446c-b703-837b16e3bf74/content",
+     "sha256": "5d49b7fb609f2ed9972ebda17192f1038929d2aefb9961f434a0e276742af3a7"
+    }
+   ]
+  },
+  {
+   "slug": "act-0083",
+   "short": "Diseases of Animals Act 1961",
+   "title": "Diseases of Animals Act, 1961 (Act 83)",
+   "url": "https://repository.parliament.gh/handle/123456789/1804",
+   "versions": [
+    {
+     "from": "1961-11-01",
+     "units": 24,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/31d741f3-718f-49b2-ad74-a9c496f66367/content",
+     "sha256": "9efaf6694cc787ee7e7b94a6b814e80b1cdb8cbf41c4b4582e35ee9dfcd1270b"
+    }
+   ]
+  },
+  {
+   "slug": "act-0107",
+   "short": "Farm Lands (Protection) Act 1962",
+   "title": "Farm Lands (Protection) Act, 1962 (Act 107)",
+   "url": "https://repository.parliament.gh/handle/123456789/1826",
+   "versions": [
+    {
+     "from": "1962-02-24",
+     "units": 6,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/b5536d99-4373-452b-ad0a-be46ca683bef/content",
+     "sha256": "970f6d59fc9774d82cee1726699cb7656ac0d28ff52b595741762e56f02de5b7"
+    }
+   ]
+  },
+  {
+   "slug": "act-0122",
+   "short": "Lands Registry Act 1962",
+   "title": "Lands Registry Act, 1962 (Act 122)",
+   "url": "https://repository.parliament.gh/handle/123456789/1886",
+   "versions": [
+    {
+     "from": "1962-06-14",
+     "units": 39,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/86e5016a-c7e0-4ae6-856e-4923d9f604a0/content",
+     "sha256": "4fc8da4a063502c8f854ecfb9eec36f76b6635cdc98ca34de1aeefefdc7ff27e"
+    }
+   ]
+  },
+  {
+   "slug": "act-0148",
+   "short": "Diplomatic Immunities Act 1962",
+   "title": "Diplomatic Immunities Act, 1962 (Act 148)",
+   "url": "https://repository.parliament.gh/handle/123456789/1803",
+   "versions": [
+    {
+     "from": "1962-11-07",
+     "units": 6,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/7cb5a84c-5ff7-4c82-8e28-9f1a9cd15df7/content",
+     "sha256": "bd50d4658e67b53532be7c26e6f4747166dd0549c592622c05a7a6d80b03eef1"
+    }
+   ]
+  },
+  {
+   "slug": "act-0156",
+   "short": "Wholesale Fish Marketing Act 1963",
+   "title": "Wholesale Fish Marketing Act, 1963 (Act 156)",
+   "url": "https://repository.parliament.gh/handle/123456789/2053",
+   "versions": [
+    {
+     "from": "1963-01-03",
+     "units": 7,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/f35b94a5-f1eb-43b1-b7d5-cb17e388ed35/content",
+     "sha256": "2d5bcbfb066c44a13c27315118d345bdea35671e09268bfdc5e5c9847629f3ef"
+    }
+   ]
+  },
+  {
+   "slug": "act-0170",
+   "short": "Chartered Accountants Act 1963",
+   "title": "Chartered Accountants Act, 1963 (Act 170)",
+   "url": "https://repository.parliament.gh/handle/123456789/1768",
+   "versions": [
+    {
+     "from": "1963-04-19",
+     "units": 32,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/92022bf2-b1e8-4459-ab88-ed7b7373f501/content",
+     "sha256": "c9fec0c1551ead69e1af7fd0a1d8f82c7dbc366db08d8cc88b0473d6264a276b"
+    }
+   ]
+  },
+  {
+   "slug": "act-0176",
+   "short": "Civil Liability Act 1963",
+   "title": "Civil Liability Act, 1963 (Act 176)",
+   "url": "https://repository.parliament.gh/handle/123456789/1775",
+   "versions": [
+    {
+     "from": "1963-04-19",
+     "units": 42,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/d2f0dab7-fee0-4b6c-b4ed-afc3688bf6af/content",
+     "sha256": "b822dbe30d028cedfe75c79608120c94bfb21b27fafeaa4a42f6fee3d49576f0"
+    }
+   ]
+  },
+  {
+   "slug": "act-0186",
+   "short": "Lands (Statutory Way Leaves) Act 1963",
+   "title": "Lands (Statutory Way Leaves) Act, 1963 (Act 186)",
+   "url": "https://repository.parliament.gh/handle/123456789/1892",
+   "versions": [
+    {
+     "from": "1963-07-16",
+     "units": 10,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/a009c79d-0f82-4123-9183-53bf292c2e2e/content",
+     "sha256": "379feee05bf1c8198de6fbfc3a992b0a6c9d3e94be9e3576ddf5a89093571a20"
+    }
+   ]
+  },
+  {
+   "slug": "act-0244",
+   "short": "Habeas Corpus Act 1964",
+   "title": "Habeas Corpus Act, 1964 (Act 244)",
+   "url": "https://repository.parliament.gh/handle/123456789/1857",
+   "versions": [
+    {
+     "from": "1964-05-26",
+     "units": 7,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/26875aa7-1123-4bfd-8a42-ec7ffc0f70a8/content",
+     "sha256": "33dac9e6ce9e4dbc80d29710dfb23239429ed4fcd951e8f3f165e0ca7c993f9a"
+    }
+   ]
+  },
+  {
+   "slug": "act-0271",
+   "short": "Estate Duty Act 1965",
+   "title": "Estate Duty Act, 1965 (Act 271)",
+   "url": "https://repository.parliament.gh/handle/123456789/1820",
+   "versions": [
+    {
+     "from": "1965-03-23",
+     "units": 22,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/17f1acc1-93a6-4b4d-8b47-c25f70c42535/content",
+     "sha256": "9e14ac8de8902108c1546f473800f426be084c1cd258aa1b692441bffa0da1e5"
+    }
+   ]
+  },
+  {
+   "slug": "act-0280",
+   "short": "Anatomy Act 1965",
+   "title": "Anatomy Act, 1965 (Act 280)",
+   "url": "https://repository.parliament.gh/handle/123456789/2047",
+   "versions": [
+    {
+     "from": "1965-04-09",
+     "units": 14,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/2c1e38fd-14e3-4daa-a83a-e34dfcde7e17/content",
+     "sha256": "b11bd0fb35d34f9d944031f8ffdae7fa5473d04f688d66ac889118d19a803adf"
+    }
+   ]
+  },
+  {
+   "slug": "act-0302",
+   "short": "Public Conveyancing Act 1965",
+   "title": "Public Conveyancing Act, 1965 (Act 302)",
+   "url": "https://repository.parliament.gh/handle/123456789/1934",
+   "versions": [
+    {
+     "from": "1965-09-29",
+     "units": 8,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/8e6c0dba-a192-4a08-8973-e7fb98c29be9/content",
+     "sha256": "f8f232714469ad1b96f2d3dbff05f07965be87694bbfe8feccb780c6aaacff96"
+    }
+   ]
+  },
+  {
+   "slug": "act-0313",
+   "short": "Africa Defence (Ghana) Act 1965",
+   "title": "Africa Defence (Ghana) Act, 1965 (Act 313)",
+   "url": "https://repository.parliament.gh/handle/123456789/1747",
+   "versions": [
+    {
+     "from": "1965-11-26",
+     "units": 4,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/47bb17a8-057b-4280-9037-60b50ec1ddc5/content",
+     "sha256": "6d12dc5cf3becf037e56fdf97e81498d2c86946f30c6cd3b8ffb984a0f60131d"
+    }
+   ]
+  },
+  {
+   "slug": "act-0426",
+   "short": "Ghana National Service Scheme Act 1980",
+   "title": "Ghana National Service Scheme Act, 1980 (Act 426)",
+   "url": "https://repository.parliament.gh/handle/123456789/1854",
+   "versions": [
+    {
+     "from": "1980-09-23",
+     "units": 32,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/99cba146-6850-4284-a85d-465e24cb7a49/content",
+     "sha256": "725760a1bdb49ca12a2579ecb594832516e9f9d9af6f9beeaf9d3e865943cfcd"
+    }
+   ]
+  },
+  {
+   "slug": "act-0452",
+   "short": "National Commission for Civic Education Act 1993",
+   "title": "National Commission for Civic Education Act, 1993 (Act 452)",
+   "url": "https://repository.parliament.gh/handle/123456789/1902",
+   "versions": [
+    {
+     "from": "1993-07-06",
+     "units": 24,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/cadaf65b-5253-4607-bda9-61ecd1e04864/content",
+     "sha256": "e45c2df6a2d5d61a39d7db7c161a76f3e033d3f618610b41a07e155b20385a94"
+    }
+   ]
+  },
+  {
+   "slug": "act-0472",
+   "short": "Emergency Powers Act 1994",
+   "title": "Emergency Powers Act, 1994 (Act 472)",
+   "url": "https://repository.parliament.gh/handle/123456789/1814",
+   "versions": [
+    {
+     "from": "1994-02-14",
+     "units": 14,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/fa46e854-145f-49a0-acfe-58f44c4305c0/content",
+     "sha256": "945f01411b0e7498879fe5f59d74be24d6548a3012ba86bbc7978f38c62cc5e8"
+    }
+   ]
+  },
+  {
+   "slug": "act-0479",
+   "short": "National Development Planning Commission Act 1994",
+   "title": "National Development Planning Commission Act, 1994 (Act 479)",
+   "url": "https://repository.parliament.gh/handle/123456789/1972",
+   "versions": [
+    {
+     "from": "1994-08-29",
+     "units": 23,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/a7db4bb2-cf6c-4906-8b3b-ecaf8ace947d/content",
+     "sha256": "1fad57f0f1696e843a5578ebc0198e3ce52f825902f7c2c28ad0aa3f8ee53213"
+    }
+   ]
+  },
+  {
+   "slug": "act-0490",
+   "short": "Environmental Protection Agency Act 1994",
+   "title": "Environmental Protection Agency Act, 1994 (Act 490)",
+   "url": "https://repository.parliament.gh/handle/123456789/1819",
+   "versions": [
+    {
+     "from": "1994-12-30",
+     "units": 31,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/560cc1a5-dde3-42e9-b27d-32db3205d75b/content",
+     "sha256": "79d8debf81efd1500e3cb587f2fd4ea0741a8bcdf7b9dfd0c4d9e9b9bda33a4e"
+    }
+   ]
+  },
+  {
+   "slug": "act-0491",
+   "short": "Public Order Act 1994",
+   "title": "Public Order Act, 1994 (Act 491)",
+   "url": "https://repository.parliament.gh/handle/123456789/2040",
+   "versions": [
+    {
+     "from": "1994-12-30",
+     "units": 12,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/405471b0-8620-4063-8267-319f5ba4e424/content",
+     "sha256": "2a67be67387792124d7f9b28dcf99db3f9504ea1ae7e1d6c9c8b1f59fabebce7"
+    }
+   ]
+  },
+  {
+   "slug": "act-0528",
+   "short": "Pesticides Control and Management Act 1996",
+   "title": "Pesticides Control and Management Act, 1996 (Act 528)",
+   "url": "https://repository.parliament.gh/handle/123456789/1909",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 43,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/766abd32-ad0d-4232-ba13-c790935683f9/content",
+     "sha256": "69939f77e11c7356442d984cb432397be31c474b4da97bc730539fc4e7d50436"
+    }
+   ]
   }
  ]
 }
