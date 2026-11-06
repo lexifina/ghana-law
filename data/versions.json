@@ -2022,6 +2022,76 @@
      "sha256": "69939f77e11c7356442d984cb432397be31c474b4da97bc730539fc4e7d50436"
     }
    ]
+  },
+  {
+   "slug": "act-0941",
+   "short": "Income Tax (Amendment) Act 2017",
+   "title": "Income Tax (Amendment) Act, 2017 (Act 941)",
+   "url": "https://repository.parliament.gh/handle/123456789/1867",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 1,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/73ad5f81-de4d-40aa-88ac-257a3cfc48ec/content",
+     "sha256": "cbe24e7a87c153377bae48e307e4c55f8ab76ae920ab5cb0432557e814049c93"
+    }
+   ]
+  },
+  {
+   "slug": "act-1005",
+   "short": "Value Added Tax (Amendment) Act 2019",
+   "title": "Value Added Tax (Amendment) Act, 2019 (Act 1005)",
+   "url": "https://repository.parliament.gh/handle/123456789/2135",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 1,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/b87aeb23-fd98-4b89-924b-14cefb00f9b1/content",
+     "sha256": "3d63969c173d01b8f0ca59943891fdfe1d8d800ccf0d55596677841ce6191b9c"
+    }
+   ]
+  },
+  {
+   "slug": "act-1015",
+   "short": "Corporate Insolvency and Restructuring Act 2020",
+   "title": "Corporate Insolvency and Restructuring Act, 2020 (Act 1015)",
+   "url": "https://repository.parliament.gh/handle/123456789/1788",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/a93a9a1c-db67-445b-b528-9eeebda1d1e1/content",
+     "sha256": "d867d2e729bec3c1c8979392a141ccb3985227b4d013545a7875697cf5c6e2c8"
+    }
+   ]
+  },
+  {
+   "slug": "act-1031",
+   "short": "Corporate Insolvency and Restructuring (Amendment) Act 2020",
+   "title": "Corporate Insolvency and Restructuring (Amendment) Act, 2020 (Act 1031)",
+   "url": "https://repository.parliament.gh/handle/123456789/1787",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/92f8e2a7-e73e-48fd-b4ed-333a4ff5a4ed/content",
+     "sha256": "73294d98e79f62462aa313bd467918e33fae4ece0996460e78fba6eec0b2a225"
+    }
+   ]
+  },
+  {
+   "slug": "act-0772",
+   "short": "Electronic Transactions Act 2008",
+   "title": "Electronic Transactions Act, 2008 (Act 772)",
+   "url": "https://repository.parliament.gh/handle/123456789/1813",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://repository.parliament.gh/server/api/core/bitstreams/c42be318-f8a0-46ab-b912-481d687f8d19/content",
+     "sha256": "c491212efbe3986e92ccd3750090a301f59fa01f8c1d4397d6041bb3b3c95f55"
+    }
+   ]
   }
  ]
 }
