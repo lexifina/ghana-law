@@ -165,6 +165,26 @@
     "act-0528"
    ],
    "sha256": "e8a833c3a93b1fd02d86f5e8feb439933aaf907cb0672cd489373ede0a0911d0"
+  },
+  "40-depth-q28.json": {
+   "acts": [
+    "act-0772",
+    "act-0941",
+    "act-1005",
+    "act-1015",
+    "act-1031"
+   ],
+   "sha256": "6c0c7d76881542a61627c926f06585b1e95a6e31bd5434b1d523de4a32a72075"
+  },
+  "41-depth-q28-image-accounting.json": {
+   "acts": [
+    "act-0772",
+    "act-0941",
+    "act-1005",
+    "act-1015",
+    "act-1031"
+   ],
+   "sha256": "ed368fd8463e49290ee217eea1d380e558644b228350000d0b2add613ea4df9a"
   }
  },
  "schema": 1

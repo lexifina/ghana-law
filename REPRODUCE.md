@@ -1,6 +1,6 @@
 # How this repository was made (Ghana)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-06, the day the source data was retrieved.
 
 ## Sources
 
@@ -13,6 +13,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Parliament of Ghana Library Repository (DSpace): Acts of Parliament | <https://repository.parliament.gh/> | 2026-11-03 | Parliament of Ghana website; no licence or terms stated. Copyright Act, 2005 (Act 690), section 3: copyright in works made for the Government vests in the Government. |
 | Parliament of Ghana Library Repository (DSpace): Acts of Parliament | <https://repository.parliament.gh/> | 2026-11-03 | Parliament of Ghana website; no licence or terms stated. Copyright Act, 2005 (Act 690), section 3: copyright in works made for the Government vests in the Government. |
 | Parliament of Ghana Library Repository (DSpace): Acts of Parliament | <https://repository.parliament.gh/> | 2026-11-03 | Parliament of Ghana website; no licence or terms stated. Copyright Act, 2005 (Act 690), section 3: copyright in works made for the Government vests in the Government. |
+| Parliament of Ghana Library Repository: complete text-layer editions | <https://repository.parliament.gh/> | 2026-11-06 | The repository states no licence or terms. Copyright Act, 2005 (Act 690), section 3: copyright in works made for the Government vests in the Government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -164,20 +165,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `act-0490` | Environmental Protection Agency Act, 1994 (Act 490) | 1 | 1994-12-30 to 1994-12-30 |
 | `act-0491` | Public Order Act, 1994 (Act 491) | 1 | 1994-12-30 to 1994-12-30 |
 | `act-0528` | Pesticides Control and Management Act, 1996 (Act 528) | 1 | 1996-12-23 to 1996-12-23 |
+| `act-0941` | Income Tax (Amendment) Act, 2017 (Act 941) | 1 | 2017-03-15 to 2017-03-15 |
+| `act-1005` | Value Added Tax (Amendment) Act, 2019 (Act 1005) | 1 | 2019-12-30 to 2019-12-30 |
+| `act-1015` | Corporate Insolvency and Restructuring Act, 2020 (Act 1015) | 1 | 2020-10-27 to 2020-10-27 |
+| `act-1031` | Corporate Insolvency and Restructuring (Amendment) Act, 2020 (Act 1031) | 1 | 2020-10-27 to 2020-10-27 |
+| `act-0772` | Electronic Transactions Act, 2008 (Act 772) | 1 | 2020-12-29 to 2020-12-29 |
 
-The build made 145 commits:
+The build made 150 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 144 | first version of an act |
+| 149 | first version of an act |
 | 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-06.
 - 17 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 145 laws in the record.
-- 290 tags.
+- 150 laws in the record.
+- 298 tags.
 
 ## Dates
 
@@ -189,13 +195,13 @@ When a law gives no date of its own, the default rule applies: Not applied: ever
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a1aaddfa688620b71dbba9bd2f86af9eba9e34d1e23f1b213e765b594b827cf2` (5778318 bytes).
+- Corpus: sha256 `39d6ea66c21aeb7e50572b075d39f5af12d2d308f6e56f40df15547fddf85a52` (6507577 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-145 versions of 144 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -228,6 +234,12 @@ No second build of this corpus has been compared yet.
 - Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as passed, dated by the date of assent printed on it ("DATE OF ASSENT: ..."); where the Act or the Gazette notification gives a later day of commencement, that day is not modelled.
 - Acts of Parliament: the text is the Parliament of Ghana Library's typed edition, published in the Parliament's repository; editions marked "As amended by" (the Library's consolidations) are not built, so every Act here is as passed, and later amending Acts are their own folders.
 - Acts of Parliament: read by the shared reader Lexifina's code (config GH): "Section N-Title" opens each section, whose title is the file's first line; Part headings above a section are left out; page numbers and footnote markers are left out; every other word from "AN ACT" to the Gazette notification line is in a file, checked letter for letter; an Act whose sections are not numbered 1..N without a gap is left out.
+- Part 40-depth-q28: single-file editions retain the complete PDF text layer, including the arrangement, all headings, textual schedules, footnotes, printed dates and page numbers. Only layout whitespace is changed; no wording is corrected.
+- Acts 1015 and 772: first_law is null. Their Library editions identify Acts 1031 and 1038 respectively as amendments. The starting dates are the Gazette dates printed on those amendment Acts, 27 October and 29 December 2020; earlier wording is not asserted.
+- Acts 1031, 1005 and 941 are amendment Acts as passed; their changes are not replayed. Dates follow the printed Gazette notification, with no separate commencement clause in these editions. Act 1005 was assented to on 28 December 2019 and notified in the Gazette on 30 December 2019; the latter is used.
+- Act 941 is a historical amendment instrument. Its quoted exemption ends on 31 December 2021, and this edition does not assert that exemption remains in force.
+- Each of these five PDFs contains one decorative national emblem and no normative image. No image law text is omitted.
+- The five complete Library editions each contain one decorative national emblem omitted from these text editions: per Act, one source image equals zero referenced plus one omitted. All normative content is text; no normative image is omitted.
 
 ## What AI did and did not do
 
@@ -244,3 +256,5 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
+- GPT-6 wrote deterministic extraction and validation code and inspected the source images. No model wrote, corrected, paraphrased or summarised law text.
+- GPT-6 added image-accounting metadata. The source law text and its dates are unchanged.
