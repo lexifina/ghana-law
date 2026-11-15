@@ -42,7 +42,9 @@ def put(path: Path, text: str, anchor: str | None) -> None:
     path.write_text(s, 'utf-8', newline='\n')
 
 
-put(H / 'repo' / 'README.md', SECTION, '## A lawyer\'s questions as git commands')
+# Since 2026-11-14 repo/README.md is on the serbia-law model, written by hand: it is left as it is.
+if '## Questions as git commands' not in (H / 'repo' / 'README.md').read_text('utf-8'):
+    put(H / 'repo' / 'README.md', SECTION, '## A lawyer\'s questions as git commands')
 put(H / 'README.extra.md', SECTION, None)
 LIC = f"""{A0}
 Acts of Parliament in the folders act-NNNN/: the Parliament of Ghana Library's typed editions of Acts of the
