@@ -60,6 +60,7 @@ Each Act is credited to itself (`Act 651`), and the Renewable Energy Act's secon
 - Each GhaLII version is parsed from an archived copy of exactly that version's page; [`data/versions.json`](data/versions.json) has the sha256 of the source behind every version.
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 150 versions of 149 Acts, 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
 - History is append-only: new Acts and versions go on top (`tools/append.py`), and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ Each Act is credited to itself (`Act 651`), and the Renewable Energy Act's secon
 See [`LICENSE`](LICENSE). The GhaLII texts are under CC BY-NC 4.0, crediting GhaLII as the source, so they may be used only for non-commercial purposes; the Parliament Library's repository states no licence or terms (under the Copyright Act, 2005 (Act 690), section 3, copyright in works made for the Government vests in the Government). Lexifina's arrangement, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by AI models (Claude Opus 5.5 and GPT-6), as [`REPRODUCE.md`](REPRODUCE.md) records.
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
