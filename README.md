@@ -11,7 +11,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** 149 Acts of Parliament from 1960 to 2021, with 150 versions: 145 from the Parliament of Ghana Library's repository, 143 of them as passed and 2 (the Electronic Transactions Act, 2008 and the Corporate Insolvency and Restructuring Act, 2020) in the Library's consolidated edition; 3 from GhaLII, the Data Protection Act, 2012, the Companies Act, 2019 and the Renewable Energy Act, 2011 (2 versions, the second as amended by Act 1045 of 2020); and the Cybersecurity Act, 2020, from the Assembly Press print. [`data/laws.csv`](data/laws.csv) lists every law in the record with its dates and source, and each Act's folder has a `README.md` listing its provisions.
 
-Each Act is in `act/<year>/<number>/`, one file per section (`act/2003/651/sec-020.md` is section 20, leave entitlement, of the Labour Act, 2003 (Act 651)); five Acts (772, 941, 1005, 1015 and 1031) are each one `whole-act.md`, with their whole printed text. Until 11 November 2026 the folders were named by the Act's id (`act-0651/`, `data-protection/`); [`data/paths.json`](data/paths.json) maps each id to its folder, and `git blame`, `git log --follow` and `tools/on.py` reach back through the move.
+Each Act is in `acts/<year>/<number>-<short name>/`, one file per section (`acts/2003/651-labour/sec-020.md` is section 20, leave entitlement, of the Labour Act, 2003 (Act 651)); five Acts (772, 941, 1005, 1015 and 1031) are each one `whole-act.md`, with their whole printed text. Until 26 November 2026 the folders were `act/<year>/<number>/`, and until 11 November 2026 they were named by the Act's id (`act-0651/`, `data-protection/`); [`data/paths.json`](data/paths.json) maps each id to its folder, and `git blame`, `git log --follow` and `tools/on.py` reach back through the moves. [`STRUCTURE.md`](STRUCTURE.md) describes the layout.
 
 The text is in English, the language Ghana's laws are made in, as each source prints it.
 
@@ -19,10 +19,10 @@ The text is in English, the language Ghana's laws are made in, as each source pr
 
 | Question | Command |
 | --- | --- |
-| Every change to section 20 of the Labour Act | `git log --follow -p --word-diff -- act/2003/651/sec-020.md` |
-| Which Act wrote each line of section 20? | `git blame act/2003/651/sec-020.md` |
-| Every version of section 20, with the day each took effect | `git log --follow --diff-filter=AM --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- act/2003/651/sec-020.md` |
-| Section 20 as held on 1 January 2010 | `python tools/on.py 2010-01-01 act/2003/651 20` |
+| Every change to section 20 of the Labour Act | `git log --follow -p --word-diff -- acts/2003/651-labour/sec-020.md` |
+| Which Act wrote each line of section 20? | `git blame acts/2003/651-labour/sec-020.md` |
+| Every version of section 20, with the day each took effect | `git log --follow --diff-filter=AM --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- acts/2003/651-labour/sec-020.md` |
+| Section 20 as held on 1 January 2010 | `python tools/on.py 2010-01-01 acts/2003/651-labour 20` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -38,7 +38,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add ghana/national/acts
-python3 tools/law.py show 2026-01-01 ghana/national/acts/act/2003/651/sec-020.md
+python3 tools/law.py show 2026-01-01 ghana/national/acts/acts/2003/651-labour/sec-020.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -47,7 +47,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 
 Each commit is dated at noon, Africa/Accra, on the day the version took effect, and carries it in its `In-force:` trailer:
 
-- for an Act as passed, the date of assent printed on it (for Act 1005, its Gazette notification two days later); a later commencement day, set by a commencement section or an Executive Instrument, is not shown;
+- for an Act as passed, the date of assent printed on it (for Act 1005, its Gazette notification two days later); for the Acts added on 26 November 2026, the day a commencement section names where it names one (the reason is in `In-force-basis:`); a commencement set by an Executive Instrument is not shown;
 - for the two consolidated editions, the Gazette notification day of the amending Act they include (Acts 1038 and 1031); no earlier text is given;
 - for a GhaLII version, GhaLII's date: the commencement it states for the first version (the Data Protection Act's 16 October 2012, not its Gazette day), and for a later one the day the amendment it takes in came into force;
 - git cannot store dates before 1970, so the 17 commits for Acts of 1960 to 1965 are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
@@ -58,14 +58,15 @@ Each Act is credited to itself (`Act 651`), and the Renewable Energy Act's secon
 
 - Every text is read by deterministic code from its source (a PDF's text layer, or GhaLII's HTML), with no OCR and no model; for the Library's Acts, every word from "AN ACT" to the Gazette notification line is in a file, checked letter for letter, and an Act whose sections are not numbered without a gap is left out.
 - Each GhaLII version is parsed from an archived copy of exactly that version's page; [`data/versions.json`](data/versions.json) has the sha256 of the source behind every version.
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 150 versions of 149 Acts, 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 150 versions of the first 149 Acts, 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)). The Acts added on 26 November 2026 (`tools/parliament/build.py`) are taken only when their sections run 1..N without a gap, match the Arrangement of Sections, and keep every word of the text layer from the first section on.
 - History is append-only: new Acts and versions go on top (`tools/append.py`), and no published commit is rewritten.
 - [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
 - **Amendments applied to the Acts they amend.** Except for the Renewable Energy Act and the two consolidated editions, each Act is its text as passed; amending Acts are their own folders.
-- **Later commencement days.** An Act as passed is dated by its assent, even where it came into force later.
+- **Later commencement days.** An Act as passed is dated by its assent, even where it came into force later (except where a commencement section of an Act added on 26 November 2026 names the day).
+- **Core codes held only as scans or consolidations.** The Criminal Offences Act, 1960 (Act 29), the Criminal and Other Offences (Procedure) Act, 1960 (Act 30) and the Evidence Act, 1975 (NRCD 323) are not here: the Library holds Acts 29 and 30 only as scanned Revised Editions, and the copies on government sites found so far lose words in their text layer.
 - **The Constitution.** The Constitution of 1992, as made and as amended by Act 527 of 1996, is on the `preview` branch only (`git show origin/preview:constitution/art-001.md`): it is read from unofficial compilations and waits for a check against an official print.
 - **Most Ghanaian law.** No Legislative or Executive Instruments and no case law; Acts the Library holds only as scanned prints are not here, since no OCR is used.
 - **Headings and notes.** Part and group headings above a section and GhaLII's editorial notes are left out of the section files, which start with their section's number and title.

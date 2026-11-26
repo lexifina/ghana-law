@@ -1,0 +1,10 @@
+{
+ "id": "gh/national/acts",
+ "global_law_path": "ghana/national/acts",
+ "country": "GH",
+ "level": "national",
+ "kind": "acts",
+ "layout": "acts/<year>/<number>-<short name>/",
+ "tz": "Africa/Accra",
+ "structure": "STRUCTURE.md"
+}
