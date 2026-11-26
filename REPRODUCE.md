@@ -258,3 +258,26 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - GPT-6 wrote deterministic extraction and validation code and inspected the source images. No model wrote, corrected, paraphrased or summarised law text.
 - GPT-6 added image-accounting metadata. The source law text and its dates are unchanged.
+
+## Acts added on 26 November 2026 (tools/parliament/)
+
+Source: the Parliament of Ghana Library repository (https://repository.parliament.gh/, DSpace 7 REST API), retrieved
+2026-11-26. GhaLII was not used: its law pages answered with a Cloudflare challenge.
+
+1. `python -X utf8 tools/parliament/fetch.py catalogue`: lists every item of the Acts communities
+   (`/server/api/discover/search/objects?scope=<community>&dsoType=ITEM`, then
+   `/server/api/core/items/<uuid>?embed=bundles/bitstreams`). Up to 4 requests in flight; back off on 429/5xx; stop on
+   401/403 or a challenge page.
+2. `python -X utf8 tools/parliament/fetch.py pdfs`: downloads every ORIGINAL PDF of an Act (Bills, reports and memoranda
+   left out).
+3. `python -X utf8 tools/parliament/build.py <repo>`: for each Act number not already in the repository, the Library's
+   typed edition of the Act as passed is read from the PDF text layer (no OCR) and committed as
+   `acts/<year>/<number>-<short name>/`, one file per section, dated by its commencement section where it has one, else
+   its date of assent. An Act is left out (and listed with the reason) when its PDF has no text layer, when it is
+   held only as a Revised Edition or consolidation, when its sections do not run 1..N without a gap or do not match
+   the Arrangement of Sections, or when a word of the text layer from the first section on is not kept.
+4. `tools/parliament/relayout.py` made the one pure-rename commit from `act/<year>/<number>/` to
+   `acts/<year>/<number>-<short name>/`.
+
+Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote these scripts. No model wrote, summarised or transformed legal
+text.

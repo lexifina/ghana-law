@@ -19,8 +19,8 @@ and the versions were arranged as git commits credited to the laws GhaLII names 
 The wording of the law was not changed. Neither GhaLII nor Laws.Africa endorses this repository.
 
 <!-- acts:start -->
-Acts of Parliament in the folders act-NNNN/: the Parliament of Ghana Library's typed editions of Acts of the
-Parliament of the Republic of Ghana, from its repository (https://repository.parliament.gh/), retrieved 2026-11-03.
+Acts of Parliament in the folders acts/<year>/<number>-<short name>/: the Parliament of Ghana Library's typed editions of Acts of the
+Parliament of the Republic of Ghana, from its repository (https://repository.parliament.gh/), retrieved 2026-11-03 and 2026-11-26.
 The repository states no licence or terms. Under the Copyright Act, 2005 (Act 690), section 3, copyright in works
 made for the Government vests in the Government. The texts are reproduced without change to their wording, as the
 law of Ghana. Neither the Parliament of Ghana nor its Library endorses this repository.
