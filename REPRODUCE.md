@@ -281,3 +281,8 @@ Source: the Parliament of Ghana Library repository (https://repository.parliamen
 
 Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote these scripts. No model wrote, summarised or transformed legal
 text.
+5. `python -X utf8 tools/parliament/build_rev.py <repo>`: the Library's Revised Editions (consolidations) that have a
+   text layer, read and checked as in step 3, each committed as one consolidated version credited to the Library.
+   They print no date of their own, so each is dated by the date of assent of the latest law it says it includes
+   ("As amended by ..."), or by its own printed date of assent where it names none. Editions marked "As repealed by",
+   or naming an amending law whose date is not found, are not taken.
