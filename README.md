@@ -9,7 +9,7 @@ The law of Ghana as a git history: one file per section, one commit per version 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Ghana's national law, which global-law reads at `ghana/national/acts/`.
 
-**What is in it now:** 218 Acts of Parliament from 1960 to 2021, with 219 versions: 214 from the Parliament of Ghana Library's repository, 212 of them as passed and 2 (the Electronic Transactions Act, 2008 and the Corporate Insolvency and Restructuring Act, 2020) in the Library's consolidated edition; 3 from GhaLII, the Data Protection Act, 2012, the Companies Act, 2019 and the Renewable Energy Act, 2011 (2 versions, the second as amended by Act 1045 of 2020); and the Cybersecurity Act, 2020, from the Assembly Press print. [`data/laws.csv`](data/laws.csv) lists every law in the record with its dates and source, and each Act's folder has a `README.md` listing its provisions.
+**What is in it now:** 233 Acts of Parliament from 1960 to 2021, with 234 versions: 229 from the Parliament of Ghana Library's repository, 212 of them as passed and 2 (the Electronic Transactions Act, 2008 and the Corporate Insolvency and Restructuring Act, 2020) in the Library's consolidated edition and 15 Revised Editions (consolidations dated by the latest law they include); 3 from GhaLII, the Data Protection Act, 2012, the Companies Act, 2019 and the Renewable Energy Act, 2011 (2 versions, the second as amended by Act 1045 of 2020); and the Cybersecurity Act, 2020, from the Assembly Press print. [`data/laws.csv`](data/laws.csv) lists every law in the record with its dates and source, and each Act's folder has a `README.md` listing its provisions.
 
 Each Act is in `acts/<year>/<number>-<short name>/`, one file per section (`acts/2003/651-labour/sec-020.md` is section 20, leave entitlement, of the Labour Act, 2003 (Act 651)); five Acts (772, 941, 1005, 1015 and 1031) are each one `whole-act.md`, with their whole printed text. Until 26 November 2026 the folders were `act/<year>/<number>/`, and until 11 November 2026 they were named by the Act's id (`act-0651/`, `data-protection/`); [`data/paths.json`](data/paths.json) maps each id to its folder, and `git blame`, `git log --follow` and `tools/on.py` reach back through the moves. [`STRUCTURE.md`](STRUCTURE.md) describes the layout.
 
@@ -49,6 +49,7 @@ Each commit is dated at noon, Africa/Accra, on the day the version took effect, 
 
 - for an Act as passed, the date of assent printed on it (for Act 1005, its Gazette notification two days later); for the Acts added on 26 November 2026, the day a commencement section names where it names one (the reason is in `In-force-basis:`); a commencement set by an Executive Instrument is not shown;
 - for the two consolidated editions, the Gazette notification day of the amending Act they include (Acts 1038 and 1031); no earlier text is given;
+- for a Revised Edition (the Library's consolidation, which prints no date of its own), the date of assent of the latest law it says it includes, or, where it names none, the date of assent printed on it (`In-force-basis: revised-edition: ...`); Revised Editions are credited to `Parliament of Ghana Library`;
 - for a GhaLII version, GhaLII's date: the commencement it states for the first version (the Data Protection Act's 16 October 2012, not its Gazette day), and for a later one the day the amendment it takes in came into force;
 - git cannot store dates before 1970, so the 33 commits for Acts of 1960 to 1969 are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
 
@@ -75,7 +76,7 @@ Each Act is credited to itself (`Act 651`), and the Renewable Energy Act's secon
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Parliament of Ghana Library repository](https://repository.parliament.gh/) | Typed editions of Acts as passed; some consolidated editions ("As amended by") | no, one text per Act | 214 Acts; the PDFs' text layer |
+| [Parliament of Ghana Library repository](https://repository.parliament.gh/) | Typed editions of Acts as passed; some consolidated editions ("As amended by") | no, one text per Act | 229 Acts; the PDFs' text layer |
 | [GhaLII](https://ghalii.org), the Ghana Legal Information Institute (Laws.Africa) | Point-in-time versions of Acts | yes, dated versions with their amendment history | 3 Acts, read from archived copies on the [Internet Archive](https://web.archive.org) |
 | [Data Protection Commission](https://dataprotection.org.gh) | The Assembly Press print of the Cybersecurity Act, 2020 | no | The Act as passed |
 
