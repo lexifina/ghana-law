@@ -44,8 +44,8 @@ def main(repo, job, dry):
                                            f"| Provision | File |\n| --- | --- |\n{rows}\n").encode("utf8"))
             msg = (f"{it['short']} as enacted ({it['law']})\n\n"
                    f"{it['title']}: the text as passed, from the text layer of {it['source_name']}'s copy of the\n"
-                   f"Assembly Press print. The Parliament of Ghana Library has no usable copy. No OCR.\n\n"
-                   f"Law: {it['law']}\nKind: law\nEnacted: {it['enacted']}\n"
+                   f"Assembly Press print. The Parliament of Ghana Library has no usable copy. No OCR of ours.\n\n"
+                   f"Law: {it['law']}\nKind: law\n" + (f"Enacted: {it['enacted']}\n" if it.get("enacted") else "")
                    + (f"Published: {it['published']}\n" if it.get("published") else "")
                    + f"In-force: {it['inf']}\nIn-force-basis: {it['basis']}\n"
                    f"Source: {it['source']}\nSource-file: {it['source_file']}\nSource-sha256: {sha}\n"

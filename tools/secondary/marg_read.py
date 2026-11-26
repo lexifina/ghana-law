@@ -13,7 +13,7 @@ import collections, re, sys
 sys.path.insert(0, os.path.join(os.environ.get("GH_ACQ", "."), "tools"))
 import build as B  # noqa
 
-NUM = re.compile(r"^(\d{1,3})([A-Z]?)\.(?:\s+(.*))?$")
+NUM = re.compile(r"^(\d{1,3})([A-Z]?)(?:\.(?!\d)\s*|\s+(?=\(1\)))(.*)$")
 SCHED = re.compile(r"^((FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH|EIGHTH|NINTH|TENTH)\s+)?SCHEDULES?\b.*$")
 
 

@@ -27,6 +27,8 @@ for rec in log.split("\x01"):
         title = "Constitution of the Republic of Ghana, 1992" if "282" in law else "Constitution of the Republic of Ghana (Amendment) Act, 1996 (Act 527)"
         stats["constitution"] += 1
     else:
+        if not (repo / folder / "README.md").exists():
+            continue
         m = re.match(r"Act (\d+)$", law)
         key = f"act-{m.group(1)}" if m else re.sub(r"[^a-z0-9]+", "-", law.lower()).strip("-")
         kind = tr["Kind"]
