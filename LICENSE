@@ -26,6 +26,30 @@ made for the Government vests in the Government. The texts are reproduced withou
 law of Ghana. Neither the Parliament of Ghana nor its Library endorses this repository.
 <!-- acts:end -->
 
+<!-- secondary:start -->
+Executive Instruments in subsidiary/<year>/ei-<number>-<short name>/ and the Acts added from Assembly Press prints on
+26 November 2026 come from the same repository (https://repository.parliament.gh/); where the print is a scan, its
+text is the OCR layer that came with the PDF (no OCR was run by Lexifina). Same terms as above.
+
+Secondary copies, used where no official copy with a usable text layer was found (each such commit carries a
+Source-status: secondary copy trailer):
+
+  WIPO Lex (https://www.wipo.int/wipolex/), the World Intellectual Property Organization's database of national laws:
+  the Criminal Offences Act, 1960 (Act 29) as amended up to 2003, and the Industrial Designs Act, 2003, the
+  Layout-Designs (Topographies) of Integrated Circuits Act, 2004, the Alternative Dispute Resolution Act, 2010 and the
+  Plant Variety Protection Act, 2020 as passed, retrieved 2026-11-26. WIPO's terms of use:
+  https://www.wipo.int/tools/en/disclaim.html. The texts are the law of Ghana (Copyright Act, 2005 (Act 690),
+  section 3); WIPO does not endorse this repository.
+
+  Office of the Special Prosecutor (https://osp.gov.gh/media/Resources/Ghana_Constitution.pdf), the Constitution of
+  1992 "as Amended to 1996", and the Ghana Audit Service's copy of the 1992 text (audit.gov.gh) for the nine
+  passages Act 527 of 1996 changed: government sites; no licence or terms stated.
+
+  Used only to check the text, not copied: Constitute Project's text of the Constitution
+  (https://www.constituteproject.org/constitution/Ghana_1996, CC BY-NC 3.0), and the scanned official print of the
+  Constitution and of Act 527 on WIPO Lex (https://www.wipo.int/wipolex/en/legislation/details/9414).
+<!-- secondary:end -->
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
 tools) are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
