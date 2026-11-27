@@ -41,7 +41,7 @@ def read(path, kind="act"):
     meta["gazette"] = B.day(m.group(1)) if m else None
     m = re.search(r"made\s+this\s+(\d{1,2}\w*\s+day\s+of\s+\w+,?\s*\d{4})", joined.replace("\n", " "), re.I)
     meta["made"] = B.day(m.group(1)) if m else None
-    start = next((i for i, s in enumerate(L) if re.match(r"^(PASSED\s+by\s+Parliament|BE\s+IT\s+ENACTED)", s, re.I)), None)
+    start = next((i for i, s in enumerate(L) if re.match(r"^(PASSED\s+by\s+Parliament|BE\s+IT\s+ENACTED|ENACTED\s+by\s+(the\s+President\s+and\s+)?Parliament)", s, re.I)), None)
     if start is None:
         start = next((i for i, s in enumerate(L) if re.match(r"^IN\s+exercise\s+of", s, re.I)), None)
         if start is None:
@@ -61,8 +61,16 @@ def read(path, kind="act"):
     for s in L[:start]:
         if re.search(r"\b(ACT|INSTRUMENT|REGULATIONS|RULES|ORDER),?\s*\d{4}", s, re.I) and len(s) < 120:
             title_lines.add(s.lower().replace(" ", ""))
+    # running heads split over two lines ("Banks and Specialised Deposit-Taking" / "Institutions Act, 2016"):
+    # a line printed 3+ times in the body that is a piece of the Act's own title
+    mt = re.search(r"ENTITLED\s+(.{5,200}?\b(?:ACT|INSTRUMENT|REGULATIONS|RULES|ORDER),?\s*\d{4})",
+                   " ".join(L[:start + 1]), re.I)
+    full = re.sub(r"\s+", "", mt.group(1).lower()) if mt else ""
+    cnt = collections.Counter(L[start + 1:])
+    split_heads = {s for s, c in cnt.items() if c >= 3 and full and len(s) >= 8
+                   and re.sub(r"\s+", "", s.lower()) in full}
     run = lambda s: (re.fullmatch(r"\d{1,3}|[A-Z]|Act\s*\d{1,4}|(E|L|C)\.\s?I\.?\s*\d+|REPUBLIC OF GHANA", s)
-                     or s.lower().replace(" ", "") in title_lines)
+                     or s.lower().replace(" ", "") in title_lines or s in split_heads)
     dropped, B_ = [], []
     for s in body:
         (dropped if run(s) else B_).append(s)
